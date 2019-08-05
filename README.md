@@ -1,5 +1,16 @@
+AtCoderの問題の難易度を計算してみた
+
+詳しくはこちら ⇒ https://wacchoz.hatenablog.com/entry/2019/08/01/231719
+
+[難易度順ソートはこちら](./difficulty_sorted.md)
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc136 | abc136_a | [Transfer](https://atcoder.jp/contests/abc136/tasks/abc136_a) | 0 | 98.57 |
+| abc136 | abc136_b | [Uneven Numbers](https://atcoder.jp/contests/abc136/tasks/abc136_b) | 34 | 91.71 |
+| abc136 | abc136_c | [Build Stairs](https://atcoder.jp/contests/abc136/tasks/abc136_c) | 263 | 72.36 |
+| abc136 | abc136_d | [Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | 794 | 44.78 |
+| abc136 | abc136_e | [Max GCD](https://atcoder.jp/contests/abc136/tasks/abc136_e) | 1659 |  9.98 |
+| abc136 | abc136_f | [Enclosed Points](https://atcoder.jp/contests/abc136/tasks/abc136_f) | 2222 |  1.80 |
 | otemae2019 | otemae2019_a | [寝坊だ！ピ太郎！ (You overslept, Pitaro)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_a) | 2 | 99.44 |
 | otemae2019 | otemae2019_b | [駒 (Pieces)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_b) | 966 | 58.03 |
 | otemae2019 | otemae2019_c | [カード並べ 2 (Arranging Card 2)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_c) | 1149 | 52.68 |
