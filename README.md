@@ -3,6 +3,7 @@ AtCoderの問題の難易度を計算してみた
 詳しくはこちら ⇒ https://wacchoz.hatenablog.com/entry/2019/08/01/231719
 
 [難易度順ソートはこちら](./difficulty_sorted.md)
+
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
 | abc136 | abc136_a | [Transfer](https://atcoder.jp/contests/abc136/tasks/abc136_a) | 0 | 98.57 |
