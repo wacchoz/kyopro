@@ -6,6 +6,12 @@ AtCoderÇÃñ‚ëËÇÃìÔà’ìxÇêÑíËÇµÇƒÇ›ÇΩ
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| agc037 | agc037_a | [Dividing a String](https://atcoder.jp/contests/agc037/tasks/agc037_a) | [202](./result/agc037/agc037_a.png) | 81.33 |
+| agc037 | agc037_b | [RGB Balls](https://atcoder.jp/contests/agc037/tasks/agc037_b) | [2286](./result/agc037/agc037_b.png) | 10.05 |
+| agc037 | agc037_c | [Numbers on a Circle](https://atcoder.jp/contests/agc037/tasks/agc037_c) | [1974](./result/agc037/agc037_c.png) | 16.86 |
+| agc037 | agc037_d | [Sorting a Grid](https://atcoder.jp/contests/agc037/tasks/agc037_d) | [2693](./result/agc037/agc037_d.png) |  4.18 |
+| agc037 | agc037_e | [Reversing and Concatenating](https://atcoder.jp/contests/agc037/tasks/agc037_e) | [2850](./result/agc037/agc037_e.png) |  4.36 |
+| agc037 | agc037_f | [Counting of Subarrays](https://atcoder.jp/contests/agc037/tasks/agc037_f) | [3767](./result/agc037/agc037_f.png) |  0.30 |
 | abc137 | abc137_a | [+-x](https://atcoder.jp/contests/abc137/tasks/abc137_a) | [0](./result/abc137/abc137_a.png) | 98.20 |
 | abc137 | abc137_b | [One Clue](https://atcoder.jp/contests/abc137/tasks/abc137_b) | [6](./result/abc137/abc137_b.png) | 96.09 |
 | abc137 | abc137_c | [Green Bin](https://atcoder.jp/contests/abc137/tasks/abc137_c) | [591](./result/abc137/abc137_c.png) | 55.27 |
