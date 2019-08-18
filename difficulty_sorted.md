@@ -3,6 +3,7 @@ AtCoder問題の難易度順ソート
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc138 | abc138_a | [Red or Not](https://atcoder.jp/contests/abc138/tasks/abc138_a) | [0](./result/abc138/abc138_a.png) | 98.65 |
 | abc137 | abc137_a | [+-x](https://atcoder.jp/contests/abc137/tasks/abc137_a) | [0](./result/abc137/abc137_a.png) | 98.20 |
 | abc136 | abc136_a | [Transfer](https://atcoder.jp/contests/abc136/tasks/abc136_a) | [0](./result/abc136/abc136_a.png) | 98.57 |
 | tkppc4-1 | tkppc4_1_a | [ヘビがヘビー](https://atcoder.jp/contests/tkppc4-1/tasks/tkppc4_1_a) | [0](./result/tkppc4-1/tkppc4_1_a.png) | 93.29 |
@@ -208,6 +209,7 @@ AtCoder問題の難易度順ソート
 | abc079 | abc079_a | [Good Integer](https://atcoder.jp/contests/abc079/tasks/abc079_a) | [25](./result/abc079/abc079_a.png) | 92.74 |
 | abc132 | abc132_b | [Ordinary Number](https://atcoder.jp/contests/abc132/tasks/abc132_b) | [26](./result/abc132/abc132_b.png) | 94.68 |
 | agc025 | agc025_a | [Digits Sum](https://atcoder.jp/contests/agc025/tasks/agc025_a) | [26](./result/agc025/agc025_a.png) | 96.56 |
+| abc138 | abc138_b | [Resistors in Parallel](https://atcoder.jp/contests/abc138/tasks/abc138_b) | [27](./result/abc138/abc138_b.png) | 94.14 |
 | tenka1-2019-beginner+tenka1-2019 | tenka1_2019_b | [*e**** ********e* *e****e* ****e**](https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b) | [27](./result/tenka1-2019-beginner+tenka1-2019/tenka1_2019_b.png) | 94.56 |
 | abc097+arc097 | abc097_a | [Colorful Transceivers](https://atcoder.jp/contests/abc097/tasks/abc097_a) | [27](./result/abc097+arc097/abc097_a.png) | 95.18 |
 | yahoo-procon2019-qual | yahoo_procon2019_qual_a | [Anti-Adjacency](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_a) | [28](./result/yahoo-procon2019-qual/yahoo_procon2019_qual_a.png) | 96.10 |
@@ -269,6 +271,7 @@ AtCoder問題の難易度順ソート
 | yahoo-procon2018-qual | yahoo_procon2018_qual_b | [オークション](https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_b) | [81](./result/yahoo-procon2018-qual/yahoo_procon2018_qual_b.png) | 89.56 |
 | abc126 | abc126_b | [YYMM or MMYY](https://atcoder.jp/contests/abc126/tasks/abc126_b) | [83](./result/abc126/abc126_b.png) | 87.26 |
 | abc092+arc093 | abc092_b | [Chocolate](https://atcoder.jp/contests/abc092/tasks/abc092_b) | [84](./result/abc092+arc093/abc092_b.png) | 89.78 |
+| abc138 | abc138_c | [Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c) | [86](./result/abc138/abc138_c.png) | 87.73 |
 | abc094+arc095 | abc094_b | [Toll Gates](https://atcoder.jp/contests/abc094/tasks/abc094_b) | [87](./result/abc094+arc095/abc094_b.png) | 86.54 |
 | abc123 | abc123_b | [Five Dishes](https://atcoder.jp/contests/abc123/tasks/abc123_b) | [88](./result/abc123/abc123_b.png) | 83.48 |
 | abc132 | abc132_c | [Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c) | [90](./result/abc132/abc132_c.png) | 88.57 |
@@ -524,6 +527,7 @@ AtCoder問題の難易度順ソート
 | code-festival-2016-qualc | codefestival_2016_qualC_b | [K個のケーキ / K Cakes](https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_b) | [904](./result/code-festival-2016-qualc/codefestival_2016_qualC_b.png) | 77.51 |
 | cf17-relay-open | relay2_a | [Kaiden](https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_a) | [916](./result/cf17-relay-open/relay2_a.png) | 72.41 |
 | agc011 | agc011_b | [Colorful Creatures](https://atcoder.jp/contests/agc011/tasks/agc011_b) | [916](./result/agc011/agc011_b.png) | 79.89 |
+| abc138 | abc138_d | [Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d) | [919](./result/abc138/abc138_d.png) | 39.74 |
 | kupc2018 | kupc2018_b | [弾幕ゲーム](https://atcoder.jp/contests/kupc2018/tasks/kupc2018_b) | [919](./result/kupc2018/kupc2018_b.png) | 66.85 |
 | agc018 | agc018_a | [Getting Difference](https://atcoder.jp/contests/agc018/tasks/agc018_a) | [919](./result/agc018/agc018_a.png) | 74.32 |
 | iroha2019-day1 | iroha2019_day1_e | [放課後](https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_e) | [925](./result/iroha2019-day1/iroha2019_day1_e.png) | 60.90 |
@@ -639,6 +643,7 @@ AtCoder問題の難易度順ソート
 | dp | dp_e | [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [1227](./result/dp/dp_e.png) | 45.76 |
 | abc089 | abc089_d | [Practical Skill Test](https://atcoder.jp/contests/abc089/tasks/abc089_d) | [1227](./result/abc089/abc089_d.png) | 33.56 |
 | cpsco2019-s1 | cpsco2019_s1_d | [Dessert Planning](https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_d) | [1231](./result/cpsco2019-s1/cpsco2019_s1_d.png) | 63.87 |
+| abc138 | abc138_e | [Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e) | [1232](./result/abc138/abc138_e.png) | 23.89 |
 | abc054 | abc054_c | [One-stroke Path](https://atcoder.jp/contests/abc054/tasks/abc054_c) | [1239](./result/abc054/abc054_c.png) | 51.06 |
 | abc126 | abc126_e | [1 or 2](https://atcoder.jp/contests/abc126/tasks/abc126_e) | [1243](./result/abc126/abc126_e.png) | 22.68 |
 | diverta2019-2 | diverta2019_2_c | [Successive Subtraction](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_c) | [1245](./result/diverta2019-2/diverta2019_2_c.png) | 34.87 |
@@ -1112,6 +1117,7 @@ AtCoder問題の難易度順ソート
 | agc020 | agc020_c | [Median Sum](https://atcoder.jp/contests/agc020/tasks/agc020_c) | [2321](./result/agc020/agc020_c.png) | 17.43 |
 | cf17-relay-open | relay2_e | [White and Blue](https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_e) | [2322](./result/cf17-relay-open/relay2_e.png) | 12.07 |
 | abc133 | abc133_f | [Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f) | [2324](./result/abc133/abc133_f.png) |  1.91 |
+| abc138 | abc138_f | [Coincidence](https://atcoder.jp/contests/abc138/tasks/abc138_f) | [2325](./result/abc138/abc138_f.png) |  1.34 |
 | ddcc2019-final | ddcc2019_final_d | [DISCO!](https://atcoder.jp/contests/ddcc2019-final/tasks/ddcc2019_final_d) | [2331](./result/ddcc2019-final/ddcc2019_final_d.png) | 27.78 |
 | diverta2019 | diverta2019_e | [XOR Partitioning](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_e) | [2337](./result/diverta2019/diverta2019_e.png) |  3.00 |
 | agc032 | agc032_c | [Three Circuits](https://atcoder.jp/contests/agc032/tasks/agc032_c) | [2341](./result/agc032/agc032_c.png) | 11.23 |

@@ -6,6 +6,12 @@ AtCoderÇÃñ‚ëËÇÃìÔà’ìxÇêÑíËÇµÇƒÇ›ÇΩ
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc138 | abc138_a | [Red or Not](https://atcoder.jp/contests/abc138/tasks/abc138_a) | [0](./result/abc138/abc138_a.png) | 98.65 |
+| abc138 | abc138_b | [Resistors in Parallel](https://atcoder.jp/contests/abc138/tasks/abc138_b) | [27](./result/abc138/abc138_b.png) | 94.14 |
+| abc138 | abc138_c | [Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c) | [86](./result/abc138/abc138_c.png) | 87.73 |
+| abc138 | abc138_d | [Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d) | [919](./result/abc138/abc138_d.png) | 39.74 |
+| abc138 | abc138_e | [Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e) | [1232](./result/abc138/abc138_e.png) | 23.89 |
+| abc138 | abc138_f | [Coincidence](https://atcoder.jp/contests/abc138/tasks/abc138_f) | [2325](./result/abc138/abc138_f.png) |  1.34 |
 | agc037 | agc037_a | [Dividing a String](https://atcoder.jp/contests/agc037/tasks/agc037_a) | [202](./result/agc037/agc037_a.png) | 81.33 |
 | agc037 | agc037_b | [RGB Balls](https://atcoder.jp/contests/agc037/tasks/agc037_b) | [2286](./result/agc037/agc037_b.png) | 10.05 |
 | agc037 | agc037_c | [Numbers on a Circle](https://atcoder.jp/contests/agc037/tasks/agc037_c) | [1974](./result/agc037/agc037_c.png) | 16.86 |
