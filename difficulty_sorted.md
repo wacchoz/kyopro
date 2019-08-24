@@ -181,7 +181,7 @@ AtCoder問題の難易度順ソート
 | m-solutions2019 | m_solutions2019_b | [Sumo](https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_b) | [13](./result/m-solutions2019/m_solutions2019_b.png) | 97.18 |
 | abc067+arc078 | abc067_b | [Snake Toy](https://atcoder.jp/contests/abc067/tasks/abc067_b) | [13](./result/abc067+arc078/abc067_b.png) | 92.04 |
 | yahoo-procon2017-qual | yahoo_procon2017_qual_a | [Yahoo](https://atcoder.jp/contests/yahoo-procon2017-qual/tasks/yahoo_procon2017_qual_a) | [13](./result/yahoo-procon2017-qual/yahoo_procon2017_qual_a.png) | 96.44 |
-| arc058+abc042 | abc042_a | [和風いろはちゃんイージー / Iroha and Haiku (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_a) | [13](./result/arc058+abc042/abc042_a.png) | 96.98 |
+| abc042+arc058 | abc042_a | [和風いろはちゃんイージー / Iroha and Haiku (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_a) | [13](./result/abc042+arc058/abc042_a.png) | 96.98 |
 | abc119 | abc119_b | [Digital Gifts](https://atcoder.jp/contests/abc119/tasks/abc119_b) | [14](./result/abc119/abc119_b.png) | 93.60 |
 | abc111+arc103 | abc111_b | [AtCoder Beginner Contest 111](https://atcoder.jp/contests/abc111/tasks/abc111_b) | [14](./result/abc111+arc103/abc111_b.png) | 95.24 |
 | mujin-pc-2018 | mujin_pc_2018_a | [コンテスト名](https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_a) | [14](./result/mujin-pc-2018/mujin_pc_2018_a.png) | 97.26 |
@@ -196,6 +196,7 @@ AtCoder問題の難易度順ソート
 | agc030 | agc030_a | [Poisonous Cookies](https://atcoder.jp/contests/agc030/tasks/agc030_a) | [18](./result/agc030/agc030_a.png) | 97.14 |
 | chokudai_S002 | chokudai_S002_d | [和の最大値 β](https://atcoder.jp/contests/chokudai_S002/tasks/chokudai_S002_d) | [19](./result/chokudai_S002/chokudai_S002_d.png) | 85.64 |
 | abc065+arc076 | abc065_a | [Expired?](https://atcoder.jp/contests/abc065/tasks/abc065_a) | [19](./result/abc065+arc076/abc065_a.png) | 90.42 |
+| jsc2019-qual | jsc2019_qual_a | [Takahashi Calendar](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_a) | [20](./result/jsc2019-qual/jsc2019_qual_a.png) | 97.48 |
 | caddi2018b+caddi2018 | caddi2018b_b | [AtCoder Alloy](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b) | [20](./result/caddi2018b+caddi2018/caddi2018b_b.png) | 96.01 |
 | abc101+arc099 | abc101_a | [Eating Symbols Easy](https://atcoder.jp/contests/abc101/tasks/abc101_a) | [20](./result/abc101+arc099/abc101_a.png) | 97.24 |
 | abc050+arc066 | abc050_a | [Addition and Subtraction Easy](https://atcoder.jp/contests/abc050/tasks/abc050_a) | [20](./result/abc050+arc066/abc050_a.png) | 97.41 |
@@ -325,9 +326,9 @@ AtCoder問題の難易度順ソート
 | abc049+arc065 | abc049_b | [たてなが / Thin](https://atcoder.jp/contests/abc049/tasks/abc049_b) | [155](./result/abc049+arc065/abc049_b.png) | 86.78 |
 | colopl2018-qual | colopl2018_qual_b | [すぬけそだて――チュートリアル――](https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_b) | [163](./result/colopl2018-qual/colopl2018_qual_b.png) | 96.92 |
 | abc127 | abc127_c | [Prison](https://atcoder.jp/contests/abc127/tasks/abc127_c) | [197](./result/abc127/abc127_c.png) | 77.50 |
-| agc037 | agc037_a | [Dividing a String](https://atcoder.jp/contests/agc037/tasks/agc037_a) | [202](./result/agc037/agc037_a.png) | 81.33 |
+| agc037 | agc037_a | [Dividing a String](https://atcoder.jp/contests/agc037/tasks/agc037_a) | [201](./result/agc037/agc037_a.png) | 81.33 |
 | abc097+arc097 | abc097_b | [Exponential](https://atcoder.jp/contests/abc097/tasks/abc097_b) | [207](./result/abc097+arc097/abc097_b.png) | 76.74 |
-| arc058+abc042 | abc042_b | [文字列大好きいろはちゃんイージー / Iroha Loves Strings (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_b) | [209](./result/arc058+abc042/abc042_b.png) | 80.65 |
+| abc042+arc058 | abc042_b | [文字列大好きいろはちゃんイージー / Iroha Loves Strings (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_b) | [209](./result/abc042+arc058/abc042_b.png) | 80.65 |
 | agc021 | agc021_a | [Digit Sum 2](https://atcoder.jp/contests/agc021/tasks/agc021_a) | [217](./result/agc021/agc021_a.png) | 92.20 |
 | abc095+arc096 | arc096_a | [Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a) | [220](./result/abc095+arc096/arc096_a.png) | 83.44 |
 | abc095+arc096 | arc096_a | [Half and Half](https://atcoder.jp/contests/arc096/tasks/arc096_a) | [220](./result/abc095+arc096/arc096_a.png) | 83.44 |
@@ -498,6 +499,7 @@ AtCoder問題の難易度順ソート
 | caddi2018b+caddi2018 | caddi2018_a | [Product and GCD](https://atcoder.jp/contests/caddi2018/tasks/caddi2018_a) | [772](./result/caddi2018b+caddi2018/caddi2018_a.png) | 62.47 |
 | abc136 | abc136_d | [Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | [794](./result/abc136/abc136_d.png) | 44.78 |
 | abc129 | abc129_c | [Typical Stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c) | [795](./result/abc129/abc129_c.png) | 48.27 |
+| jsc2019-qual | jsc2019_qual_b | [Kleene Inversion](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_b) | [797](./result/jsc2019-qual/jsc2019_qual_b.png) | 58.23 |
 | ddcc2017-qual | ddcc2017_qual_c | [収納](https://atcoder.jp/contests/ddcc2017-qual/tasks/ddcc2017_qual_c) | [799](./result/ddcc2017-qual/ddcc2017_qual_c.png) | 73.51 |
 | tkppc2 | tkppc2016_b | [書き換え（Rewrite）](https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_b) | [799](./result/tkppc2/tkppc2016_b.png) | 78.03 |
 | abc048+arc064 | abc048_b | [Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b) | [804](./result/abc048+arc064/abc048_b.png) | 60.00 |
@@ -570,8 +572,8 @@ AtCoder問題の難易度順ソート
 | abc114 | abc114_c | [755](https://atcoder.jp/contests/abc114/tasks/abc114_c) | [1058](./result/abc114/abc114_c.png) | 37.67 |
 | abc053+arc068 | arc068_b | [Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | [1059](./result/abc053+arc068/arc068_b.png) | 66.84 |
 | abc053+arc068 | arc068_b | [Card Eater](https://atcoder.jp/contests/arc068/tasks/arc068_b) | [1059](./result/abc053+arc068/arc068_b.png) | 66.84 |
-| arc058+abc042 | arc058_a | [こだわり者いろはちゃん / Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a) | [1059](./result/arc058+abc042/arc058_a.png) | 68.36 |
-| arc058+abc042 | arc058_a | [こだわり者いろはちゃん / Iroha's Obsession](https://atcoder.jp/contests/abc042/tasks/arc058_a) | [1059](./result/arc058+abc042/arc058_a.png) | 68.36 |
+| abc042+arc058 | arc058_a | [こだわり者いろはちゃん / Iroha's Obsession](https://atcoder.jp/contests/abc042/tasks/arc058_a) | [1059](./result/abc042+arc058/arc058_a.png) | 68.36 |
+| abc042+arc058 | arc058_a | [こだわり者いろはちゃん / Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a) | [1059](./result/abc042+arc058/arc058_a.png) | 68.36 |
 | abc075 | abc075_c | [Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | [1067](./result/abc075/abc075_c.png) | 48.14 |
 | tkppc4-1 | tkppc4_1_e | [Osmium_1008と課題](https://atcoder.jp/contests/tkppc4-1/tasks/tkppc4_1_e) | [1077](./result/tkppc4-1/tkppc4_1_e.png) | 57.01 |
 | chokudai_S002 | chokudai_S002_h | [あまり β](https://atcoder.jp/contests/chokudai_S002/tasks/chokudai_S002_h) | [1078](./result/chokudai_S002/chokudai_S002_h.png) | 51.76 |
@@ -883,6 +885,7 @@ AtCoder問題の難易度順ソート
 | abc086+arc089 | arc089_b | [Checker](https://atcoder.jp/contests/abc086/tasks/arc089_b) | [1799](./result/abc086+arc089/arc089_b.png) | 19.87 |
 | abc086+arc089 | arc089_b | [Checker](https://atcoder.jp/contests/arc089/tasks/arc089_b) | [1799](./result/abc086+arc089/arc089_b.png) | 19.87 |
 | iroha2019-day2 | iroha2019_day2_e | [連呼](https://atcoder.jp/contests/iroha2019-day2/tasks/iroha2019_day2_e) | [1801](./result/iroha2019-day2/iroha2019_day2_e.png) | 26.18 |
+| jsc2019-qual | jsc2019_qual_c | [Cell Inversion](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_c) | [1802](./result/jsc2019-qual/jsc2019_qual_c.png) | 14.63 |
 | agc026 | agc026_b | [rng_10s](https://atcoder.jp/contests/agc026/tasks/agc026_b) | [1803](./result/agc026/agc026_b.png) | 25.65 |
 | yahoo-procon2018-final+yahoo-procon2018-final-open | yahoo_procon2018_final_a | [Uncommon](https://atcoder.jp/contests/yahoo-procon2018-final/tasks/yahoo_procon2018_final_a) | [1804](./result/yahoo-procon2018-final+yahoo-procon2018-final-open/yahoo_procon2018_final_a.png) | 64.38 |
 | yahoo-procon2018-final+yahoo-procon2018-final-open | yahoo_procon2018_final_a | [Uncommon](https://atcoder.jp/contests/yahoo-procon2018-final-open/tasks/yahoo_procon2018_final_a) | [1804](./result/yahoo-procon2018-final+yahoo-procon2018-final-open/yahoo_procon2018_final_a.png) | 64.38 |
@@ -909,6 +912,7 @@ AtCoder問題の難易度順ソート
 | otemae2019 | otemae2019_f | [天秤とコイン (Balance and Coins)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_f) | [1854](./result/otemae2019/otemae2019_f.png) | 25.35 |
 | abc131 | abc131_f | [Must Be Rectangular!](https://atcoder.jp/contests/abc131/tasks/abc131_f) | [1865](./result/abc131/abc131_f.png) |  5.48 |
 | diverta2019-2 | diverta2019_2_d | [Squirrel Merchant](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_d) | [1879](./result/diverta2019-2/diverta2019_2_d.png) | 11.56 |
+| jsc2019-qual | jsc2019_qual_d | [Classified](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_d) | [1881](./result/jsc2019-qual/jsc2019_qual_d.png) | 11.18 |
 | agc004 | agc004_b | [Colorful Slimes](https://atcoder.jp/contests/agc004/tasks/agc004_b) | [1881](./result/agc004/agc004_b.png) | 36.04 |
 | iroha2019-day2 | iroha2019_day2_f | [総入れ替え](https://atcoder.jp/contests/iroha2019-day2/tasks/iroha2019_day2_f) | [1886](./result/iroha2019-day2/iroha2019_day2_f.png) | 23.82 |
 | aising2019 | aising2019_d | [Nearest Card Game](https://atcoder.jp/contests/aising2019/tasks/aising2019_d) | [1887](./result/aising2019/aising2019_d.png) | 12.54 |
@@ -921,8 +925,8 @@ AtCoder問題の難易度順ソート
 | tkppc3 | tkppc3_f | [天使とふすま](https://atcoder.jp/contests/tkppc3/tasks/tkppc3_f) | [1897](./result/tkppc3/tkppc3_f.png) | 25.85 |
 | jag2017autumn | jag2017autumn_c | [Prime-Factor Prime](https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn_c) | [1899](./result/jag2017autumn/jag2017autumn_c.png) | 53.42 |
 | iroha2019-day2 | iroha2019_day2_g | [通学路](https://atcoder.jp/contests/iroha2019-day2/tasks/iroha2019_day2_g) | [1900](./result/iroha2019-day2/iroha2019_day2_g.png) | 21.18 |
-| arc058+abc042 | arc058_b | [いろはちゃんとマス目 / Iroha and a Grid](https://atcoder.jp/contests/arc058/tasks/arc058_b) | [1901](./result/arc058+abc042/arc058_b.png) | 29.02 |
-| arc058+abc042 | arc058_b | [いろはちゃんとマス目 / Iroha and a Grid](https://atcoder.jp/contests/abc042/tasks/arc058_b) | [1901](./result/arc058+abc042/arc058_b.png) | 29.02 |
+| abc042+arc058 | arc058_b | [いろはちゃんとマス目 / Iroha and a Grid](https://atcoder.jp/contests/abc042/tasks/arc058_b) | [1901](./result/abc042+arc058/arc058_b.png) | 29.02 |
+| abc042+arc058 | arc058_b | [いろはちゃんとマス目 / Iroha and a Grid](https://atcoder.jp/contests/arc058/tasks/arc058_b) | [1901](./result/abc042+arc058/arc058_b.png) | 29.02 |
 | wupc2019 | wupc2019_g | [Teishoku](https://atcoder.jp/contests/wupc2019/tasks/wupc2019_g) | [1904](./result/wupc2019/wupc2019_g.png) | 20.71 |
 | agc010 | agc010_b | [Boxes](https://atcoder.jp/contests/agc010/tasks/agc010_b) | [1905](./result/agc010/agc010_b.png) | 35.99 |
 | iroha2019-day3 | iroha2019_day3_c | [Not Say "NO"](https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_c) | [1909](./result/iroha2019-day3/iroha2019_day3_c.png) | 26.28 |
@@ -1208,7 +1212,7 @@ AtCoder問題の難易度順ソート
 | abc063+arc075 | arc075_d | [Mirrored](https://atcoder.jp/contests/arc075/tasks/arc075_d) | [2549](./result/abc063+arc075/arc075_d.png) | 10.49 |
 | agc034 | agc034_c | [Tests](https://atcoder.jp/contests/agc034/tasks/agc034_c) | [2553](./result/agc034/agc034_c.png) |  5.34 |
 | abc092+arc093 | arc093_c | [Bichrome Spanning Tree](https://atcoder.jp/contests/arc093/tasks/arc093_c) | [2561](./result/abc092+arc093/arc093_c.png) |  6.61 |
-| arc058+abc042 | arc058_c | [和風いろはちゃん / Iroha and Haiku](https://atcoder.jp/contests/arc058/tasks/arc058_c) | [2561](./result/arc058+abc042/arc058_c.png) | 17.31 |
+| abc042+arc058 | arc058_c | [和風いろはちゃん / Iroha and Haiku](https://atcoder.jp/contests/arc058/tasks/arc058_c) | [2561](./result/abc042+arc058/arc058_c.png) | 17.31 |
 | qupc2018 | qupc2018_j | [Repeat Strings](https://atcoder.jp/contests/qupc2018/tasks/qupc2018_j) | [2565](./result/qupc2018/qupc2018_j.png) |  3.18 |
 | tenka1-2016-qualb | tenka1_2016_qualB_c | [天下一プログラマーコンテスト1999](https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_c) | [2565](./result/tenka1-2016-qualb/tenka1_2016_qualB_c.png) | 12.01 |
 | jag2017summer-day1 | jag2017summer_day1_e | [ベクトル式](https://atcoder.jp/contests/jag2017summer-day1/tasks/jag2017summer_day1_e) | [2566](./result/jag2017summer-day1/jag2017summer_day1_e.png) | 46.67 |
@@ -1243,6 +1247,7 @@ AtCoder問題の難易度順ソート
 | tenka1-2017+tenka1-2017-beginner | tenka1_2017_e | [CARtesian Coodinate](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_e) | [2639](./result/tenka1-2017+tenka1-2017-beginner/tenka1_2017_e.png) |  9.20 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_d | [Dice Game](https://atcoder.jp/contests/cf16-exhibition-final/tasks/cf16_exhibition_final_d) | [2643](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_d.png) | 44.26 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_d | [Dice Game](https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16_exhibition_final_d) | [2643](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_d.png) | 44.26 |
+| jsc2019-qual | jsc2019_qual_e | [Card Collector](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_e) | [2645](./result/jsc2019-qual/jsc2019_qual_e.png) |  1.73 |
 | agc032 | agc032_d | [Rotation Sort](https://atcoder.jp/contests/agc032/tasks/agc032_d) | [2645](./result/agc032/agc032_d.png) |  6.33 |
 | abc094+arc095 | arc095_d | [Permutation Tree](https://atcoder.jp/contests/arc095/tasks/arc095_d) | [2648](./result/abc094+arc095/arc095_d.png) |  6.52 |
 | ddcc2017-final | ddcc2017_final_c | [グラフいじり](https://atcoder.jp/contests/ddcc2017-final/tasks/ddcc2017_final_c) | [2649](./result/ddcc2017-final/ddcc2017_final_c.png) | 15.82 |
@@ -1522,6 +1527,7 @@ AtCoder問題の難易度順ソート
 | mujin-pc-2018 | mujin_pc_2018_h | [タイル張り](https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_h) | [3370](./result/mujin-pc-2018/mujin_pc_2018_h.png) |  0.48 |
 | abc077+arc084 | arc084_d | [XorShift](https://atcoder.jp/contests/arc084/tasks/arc084_d) | [3371](./result/abc077+arc084/arc084_d.png) |  1.30 |
 | cf17-tournament-round3-open | asaporo2_f | [Unicyclic Graph Counting](https://atcoder.jp/contests/cf17-tournament-round3-open/tasks/asaporo2_f) | [3374](./result/cf17-tournament-round3-open/asaporo2_f.png) | 14.63 |
+| jsc2019-qual | jsc2019_qual_f | [Candy Retribution](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_f) | [3386](./result/jsc2019-qual/jsc2019_qual_f.png) |  0.23 |
 | yahoo-procon2017-qual | yahoo_procon2017_qual_e | [遊園地](https://atcoder.jp/contests/yahoo-procon2017-qual/tasks/yahoo_procon2017_qual_e) | [3389](./result/yahoo-procon2017-qual/yahoo_procon2017_qual_e.png) |  0.51 |
 | abc066+arc077 | arc077_d | [SS](https://atcoder.jp/contests/arc077/tasks/arc077_d) | [3393](./result/abc066+arc077/arc077_d.png) |  0.87 |
 | agc014 | agc014_e | [Blue and Red Tree](https://atcoder.jp/contests/agc014/tasks/agc014_e) | [3397](./result/agc014/agc014_e.png) |  2.03 |
@@ -1637,7 +1643,7 @@ AtCoder問題の難易度順ソート
 | xmascon18 | xmascon18_d | [Devilish Dice](https://atcoder.jp/contests/xmascon18/tasks/xmascon18_d) | [3856](./result/xmascon18/xmascon18_d.png) |  0.35 |
 | soundhound2018 | soundhound2018_e | [カッコ列](https://atcoder.jp/contests/soundhound2018/tasks/soundhound2018_e) | [3864](./result/soundhound2018/soundhound2018_e.png) |  0.19 |
 | xmascon16noon | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_b) | [3869](./result/xmascon16noon/xmascon16_b.png) |  0.88 |
-| arc058+abc042 | arc058_d | [文字列大好きいろはちゃん / Iroha Loves Strings](https://atcoder.jp/contests/arc058/tasks/arc058_d) | [3874](./result/arc058+abc042/arc058_d.png) |  0.90 |
+| abc042+arc058 | arc058_d | [文字列大好きいろはちゃん / Iroha Loves Strings](https://atcoder.jp/contests/arc058/tasks/arc058_d) | [3874](./result/abc042+arc058/arc058_d.png) |  0.90 |
 | iroha2019-day4 | iroha2019_day4_c | [君の力に](https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_c) | [3881](./result/iroha2019-day4/iroha2019_day4_c.png) |  3.14 |
 | xmascon16midnight | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_c) | [3887](./result/xmascon16midnight/xmascon16_c.png) |  2.04 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_f | [Intervals](https://atcoder.jp/contests/cf16-exhibition-final/tasks/cf16_exhibition_final_f) | [3894](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_f.png) |  8.20 |
