@@ -917,7 +917,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | jag2018summer-day2 | jag2018summer_day2_c | [Equiangular](https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer_day2_c) | [2179](./result/jag2018summer-day2/jag2018summer_day2_c.png) | 53.70 |
 | iroha2019-day3 | iroha2019_day3_h | [〔経験値〕](https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_h) | [2188](./result/iroha2019-day3/iroha2019_day3_h.png) | 14.96 |
 | dwacon2018-final+dwacon2018-final-open | dwacon2018_final_b | [だんだん強く](https://atcoder.jp/contests/dwacon2018-final-open/tasks/dwacon2018_final_b) | [2194](./result/dwacon2018-final+dwacon2018-final-open/dwacon2018_final_b.png) | 50.72 |
-| xmascon16 | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_a) | [2196](./result/xmascon16/xmascon16_a.png) | 35.48 |
 | abc044+arc060 | arc060_b | [桁和 / Digit Sum](https://atcoder.jp/contests/arc060/tasks/arc060_b) | [2199](./result/abc044+arc060/arc060_b.png) | 13.02 |
 | agc021 | agc021_b | [Holes](https://atcoder.jp/contests/agc021/tasks/agc021_b) | [2203](./result/agc021/agc021_b.png) | 21.06 |
 | wupc2019 | wupc2019_d | [Choose Your Characters](https://atcoder.jp/contests/wupc2019/tasks/wupc2019_d) | [2207](./result/wupc2019/wupc2019_d.png) | 11.83 |
@@ -969,7 +968,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | abc053+arc068 | arc068_c | [Snuke Line](https://atcoder.jp/contests/arc068/tasks/arc068_c) | [2312](./result/abc053+arc068/arc068_c.png) | 21.77 |
 | kupc2018 | kupc2018_e | [転倒数](https://atcoder.jp/contests/kupc2018/tasks/kupc2018_e) | [2313](./result/kupc2018/kupc2018_e.png) | 14.67 |
 | dp | dp_t | [Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | [2315](./result/dp/dp_t.png) |  7.22 |
-| xmascon16noon | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_e) | [2319](./result/xmascon16noon/xmascon16_e.png) | 29.20 |
 | cpsco2019-s3 | cpsco2019_s3_f | [Flexible Permutation](https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_f) | [2319](./result/cpsco2019-s3/cpsco2019_s3_f.png) | 12.50 |
 | agc020 | agc020_c | [Median Sum](https://atcoder.jp/contests/agc020/tasks/agc020_c) | [2321](./result/agc020/agc020_c.png) | 17.43 |
 | cf17-relay-open | relay2_e | [White and Blue](https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_e) | [2322](./result/cf17-relay-open/relay2_e.png) | 12.07 |
@@ -982,13 +980,13 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | agc024 | agc024_d | [Isomorphism Freak](https://atcoder.jp/contests/agc024/tasks/agc024_d) | [2345](./result/agc024/agc024_d.png) | 11.91 |
 | abc067+arc078 | arc078_c | [Awkward Response](https://atcoder.jp/contests/arc078/tasks/arc078_c) | [2347](./result/abc067+arc078/arc078_c.png) | 16.73 |
 | agc011 | agc011_c | [Squared Graph](https://atcoder.jp/contests/agc011/tasks/agc011_c) | [2348](./result/agc011/agc011_c.png) | 17.72 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_a) | [2351](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_a.png) | 29.91 |
 | cpsco2019-s2 | cpsco2019_s2_e | [Mogu Mogu Gummi](https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_e) | [2353](./result/cpsco2019-s2/cpsco2019_s2_e.png) | 12.18 |
 | abc135 | abc135_f | [Strings of Eternity](https://atcoder.jp/contests/abc135/tasks/abc135_f) | [2358](./result/abc135/abc135_f.png) |  1.68 |
 | code-festival-2018-final+code-festival-2018-final-open | code_festival_2018_final_g | [Chicks and Cages](https://atcoder.jp/contests/code-festival-2018-final-open/tasks/code_festival_2018_final_g) | [2360](./result/code-festival-2018-final+code-festival-2018-final-open/code_festival_2018_final_g.png) | 20.09 |
 | agc036 | agc036_c | [GP 2](https://atcoder.jp/contests/agc036/tasks/agc036_c) | [2361](./result/agc036/agc036_c.png) |  8.43 |
 | s8pc-3 | s8pc_3_d | [お土産購入計画2 / Souvenirs](https://atcoder.jp/contests/s8pc-3/tasks/s8pc_3_d) | [2362](./result/s8pc-3/s8pc_3_d.png) | 19.89 |
 | agc010 | agc010_c | [Cleaning](https://atcoder.jp/contests/agc010/tasks/agc010_c) | [2363](./result/agc010/agc010_c.png) | 18.60 |
-| xmascon16noon | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_a) | [2364](./result/xmascon16noon/xmascon16_a.png) | 28.32 |
 | chokudai_S002 | chokudai_S002_l | [長方形 β](https://atcoder.jp/contests/chokudai_S002/tasks/chokudai_S002_l) | [2369](./result/chokudai_S002/chokudai_S002_l.png) |  5.15 |
 | iroha2019-day2 | iroha2019_day2_h | [根室の巫女](https://atcoder.jp/contests/iroha2019-day2/tasks/iroha2019_day2_h) | [2371](./result/iroha2019-day2/iroha2019_day2_h.png) |  6.47 |
 | cf16-relay-open | relay_h | [早起き / Early Bird](https://atcoder.jp/contests/cf16-relay-open/tasks/relay_h) | [2372](./result/cf16-relay-open/relay_h.png) | 20.00 |
@@ -1043,7 +1041,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | abc072+arc082 | arc082_d | [Sandglass](https://atcoder.jp/contests/arc082/tasks/arc082_d) | [2515](./result/abc072+arc082/arc082_d.png) | 11.07 |
 | code-thanks-festival-2018+code-thanks-festival-2018-open | code_thanks_festival_2018_g | [Sum of Cards](https://atcoder.jp/contests/code-thanks-festival-2018-open/tasks/code_thanks_festival_2018_g) | [2515](./result/code-thanks-festival-2018+code-thanks-festival-2018-open/code_thanks_festival_2018_g.png) |  3.72 |
 | abc134 | abc134_f | [Permutation Oddness](https://atcoder.jp/contests/abc134/tasks/abc134_f) | [2518](./result/abc134/abc134_f.png) |  1.10 |
-| xmascon16midnight | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_a) | [2527](./result/xmascon16midnight/xmascon16_a.png) | 26.53 |
 | agc030 | agc030_b | [Tree Burning](https://atcoder.jp/contests/agc030/tasks/agc030_b) | [2528](./result/agc030/agc030_b.png) |  8.94 |
 | code-festival-2017-quala | code_festival_2017_quala_d | [Four Coloring](https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_d) | [2530](./result/code-festival-2017-quala/code_festival_2017_quala_d.png) | 11.73 |
 | aising2019 | aising2019_e | [Attack to a Tree](https://atcoder.jp/contests/aising2019/tasks/aising2019_e) | [2531](./result/aising2019/aising2019_e.png) |  2.76 |
@@ -1054,6 +1051,7 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | tkppc4-2 | tkppc4_2_f | [Segtree☆Magica](https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_f) | [2542](./result/tkppc4-2/tkppc4_2_f.png) | 10.24 |
 | abc063+arc075 | arc075_d | [Mirrored](https://atcoder.jp/contests/arc075/tasks/arc075_d) | [2549](./result/abc063+arc075/arc075_d.png) | 10.49 |
 | abc077+arc084 | arc084_b | [Small Multiple](https://atcoder.jp/contests/arc084/tasks/arc084_b) | [2549](./result/abc077+arc084/arc084_b.png) |  6.05 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_e) | [2550](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_e.png) | 27.23 |
 | agc034 | agc034_c | [Tests](https://atcoder.jp/contests/agc034/tasks/agc034_c) | [2553](./result/agc034/agc034_c.png) |  5.34 |
 | abc042+arc058 | arc058_c | [和風いろはちゃん / Iroha and Haiku](https://atcoder.jp/contests/arc058/tasks/arc058_c) | [2561](./result/abc042+arc058/arc058_c.png) | 17.31 |
 | abc092+arc093 | arc093_c | [Bichrome Spanning Tree](https://atcoder.jp/contests/arc093/tasks/arc093_c) | [2561](./result/abc092+arc093/arc093_c.png) |  6.61 |
@@ -1093,7 +1091,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | abc094+arc095 | arc095_d | [Permutation Tree](https://atcoder.jp/contests/arc095/tasks/arc095_d) | [2648](./result/abc094+arc095/arc095_d.png) |  6.52 |
 | ddcc2017-final | ddcc2017_final_c | [グラフいじり](https://atcoder.jp/contests/ddcc2017-final/tasks/ddcc2017_final_c) | [2649](./result/ddcc2017-final/ddcc2017_final_c.png) | 15.82 |
 | cf17-tournament-round1-open | asaporo2_c | [Paired Parentheses](https://atcoder.jp/contests/cf17-tournament-round1-open/tasks/asaporo2_c) | [2650](./result/cf17-tournament-round1-open/asaporo2_c.png) | 23.08 |
-| xmascon16 | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_e) | [2652](./result/xmascon16/xmascon16_e.png) | 17.74 |
 | agc023 | agc023_c | [Painting Machines](https://atcoder.jp/contests/agc023/tasks/agc023_c) | [2652](./result/agc023/agc023_c.png) |  7.64 |
 | yahoo-procon2017-qual | yahoo_procon2017_qual_d | [工場](https://atcoder.jp/contests/yahoo-procon2017-qual/tasks/yahoo_procon2017_qual_d) | [2653](./result/yahoo-procon2017-qual/yahoo_procon2017_qual_d.png) |  5.59 |
 | tkppc2 | tkppc2016_f | [NPCの家 (NPC's House)](https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_f) | [2654](./result/tkppc2/tkppc2016_f.png) | 11.36 |
@@ -1176,7 +1173,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | dwacon5th-prelims | dwacon5th_prelims_e | [Cyclic GCDs](https://atcoder.jp/contests/dwacon5th-prelims/tasks/dwacon5th_prelims_e) | [2877](./result/dwacon5th-prelims/dwacon5th_prelims_e.png) |  1.63 |
 | agc016 | agc016_d | [XOR Replace](https://atcoder.jp/contests/agc016/tasks/agc016_d) | [2879](./result/agc016/agc016_d.png) |  7.08 |
 | cf17-final+cf17-final-open | cf17_final_e | [Combination Lock](https://atcoder.jp/contests/cf17-final-open/tasks/cf17_final_e) | [2879](./result/cf17-final+cf17-final-open/cf17_final_e.png) | 12.17 |
-| xmascon16midnight | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_e) | [2882](./result/xmascon16midnight/xmascon16_e.png) | 34.69 |
 | abc086+arc089 | arc089_c | [GraphXY](https://atcoder.jp/contests/arc089/tasks/arc089_c) | [2882](./result/abc086+arc089/arc089_c.png) |  4.60 |
 | iroha2019-day4 | iroha2019_day4_f | [道なき道を](https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_f) | [2882](./result/iroha2019-day4/iroha2019_day4_f.png) |  3.14 |
 | abc049+arc065 | arc065_c | [へんなコンパス / Manhattan Compass](https://atcoder.jp/contests/arc065/tasks/arc065_c) | [2883](./result/abc049+arc065/arc065_c.png) |  7.91 |
@@ -1189,7 +1185,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | abc050+arc066 | arc066_c | [Addition and Subtraction Hard](https://atcoder.jp/contests/arc066/tasks/arc066_c) | [2911](./result/abc050+arc066/arc066_c.png) |  9.69 |
 | s8pc-6 | s8pc_6_g | [Medals](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_g) | [2913](./result/s8pc-6/s8pc_6_g.png) |  1.94 |
 | cf17-final+cf17-final-open | cf17_final_g | [Mancala](https://atcoder.jp/contests/cf17-final-open/tasks/cf17_final_g) | [2917](./result/cf17-final+cf17-final-open/cf17_final_g.png) | 10.26 |
-| xmascon16noon | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_j) | [2919](./result/xmascon16noon/xmascon16_j.png) |  0.88 |
 | code-festival-2017-qualb | code_festival_2017_qualb_e | [Popping Balls](https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_e) | [2919](./result/code-festival-2017-qualb/code_festival_2017_qualb_e.png) |  3.99 |
 | agc025 | agc025_d | [Choosing Points](https://atcoder.jp/contests/agc025/tasks/agc025_d) | [2919](./result/agc025/agc025_d.png) |  4.24 |
 | abc072+arc082 | arc082_c | [ConvexScore](https://atcoder.jp/contests/arc082/tasks/arc082_c) | [2920](./result/abc072+arc082/arc082_c.png) |  5.79 |
@@ -1211,9 +1206,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | jag2018summer-day2 | jag2018summer_day2_e | [Self-contained](https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer_day2_e) | [2964](./result/jag2018summer-day2/jag2018summer_day2_e.png) | 27.78 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_j | [123 Pairs](https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16_exhibition_final_j) | [2965](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_j.png) | 32.79 |
 | agc022 | agc022_e | [Median Replace](https://atcoder.jp/contests/agc022/tasks/agc022_e) | [2970](./result/agc022/agc022_e.png) |  5.42 |
-| xmascon16 | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_d) | [2972](./result/xmascon16/xmascon16_d.png) |  4.84 |
-| xmascon16 | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_g) | [2972](./result/xmascon16/xmascon16_g.png) |  1.61 |
-| xmascon16 | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_h) | [2972](./result/xmascon16/xmascon16_h.png) |  1.61 |
 | agc033 | agc033_d | [Complexity](https://atcoder.jp/contests/agc033/tasks/agc033_d) | [2972](./result/agc033/agc033_d.png) |  2.10 |
 | abc083+arc088 | arc088_d | [Christmas Tree](https://atcoder.jp/contests/arc088/tasks/arc088_d) | [2975](./result/abc083+arc088/arc088_d.png) |  3.19 |
 | yahoo-procon2018-final+yahoo-procon2018-final-open | yahoo_procon2018_final_d | [LCP(prefix,suffix)](https://atcoder.jp/contests/yahoo-procon2018-final-open/tasks/yahoo_procon2018_final_d) | [2981](./result/yahoo-procon2018-final+yahoo-procon2018-final-open/yahoo_procon2018_final_d.png) | 16.44 |
@@ -1241,7 +1233,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | tkppc2 | tkppc2016_e | [歩くNPCたち（Walking NPCs）](https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_e) | [3017](./result/tkppc2/tkppc2016_e.png) |  5.30 |
 | tenka1-2016-quala | tenka1_2016_qualA_e | [無限グラフ](https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_e) | [3020](./result/tenka1-2016-quala/tenka1_2016_qualA_e.png) |  2.19 |
 | s8pc-5 | s8pc_5_e | [Broken Skateboard](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_e) | [3021](./result/s8pc-5/s8pc_5_e.png) |  7.55 |
-| xmascon16noon | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_i) | [3022](./result/xmascon16noon/xmascon16_i.png) |  3.54 |
 | agc031 | agc031_d | [A Sequence of Permutations](https://atcoder.jp/contests/agc031/tasks/agc031_d) | [3022](./result/agc031/agc031_d.png) |  2.66 |
 | tenka1-2019-beginner+tenka1-2019 | tenka1_2019_e | [Polynomial Divisors](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_e) | [3024](./result/tenka1-2019-beginner+tenka1-2019/tenka1_2019_e.png) |  3.64 |
 | bitflyer2018-final+bitflyer2018-final-open | bitflyer2018_final_e | [数式とクエリ](https://atcoder.jp/contests/bitflyer2018-final-open/tasks/bitflyer2018_final_e) | [3025](./result/bitflyer2018-final+bitflyer2018-final-open/bitflyer2018_final_e.png) |  6.12 |
@@ -1257,7 +1248,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | agc017 | agc017_e | [Jigsaw](https://atcoder.jp/contests/agc017/tasks/agc017_e) | [3053](./result/agc017/agc017_e.png) |  2.81 |
 | cpsco2019-s1 | cpsco2019_s1_h | [Highest and Ends](https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_h) | [3057](./result/cpsco2019-s1/cpsco2019_s1_h.png) |  1.26 |
 | otemae2019 | otemae2019_h | [美味しい飴 (Candy is Delicious)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_h) | [3062](./result/otemae2019/otemae2019_h.png) |  2.54 |
-| xmascon16midnight | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_i) | [3070](./result/xmascon16midnight/xmascon16_i.png) | 10.20 |
 | colopl2018-final+colopl2018-final-open | colopl2018_final_f | [高橋くんの帰還](https://atcoder.jp/contests/colopl2018-final-open/tasks/colopl2018_final_f) | [3082](./result/colopl2018-final+colopl2018-final-open/colopl2018_final_f.png) |  2.82 |
 | iroha2019-day4 | iroha2019_day4_g | [真実の魔法陣](https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_g) | [3083](./result/iroha2019-day4/iroha2019_day4_g.png) |  0.63 |
 | jag2016autumn | icpc2016autumn_h | [Pipe Fitter and the Fierce Dogs](https://atcoder.jp/contests/jag2016autumn/tasks/icpc2016autumn_h) | [3087](./result/jag2016autumn/icpc2016autumn_h.png) | 10.00 |
@@ -1282,6 +1272,7 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | iroha2019-day4 | iroha2019_day4_j | [もう、諦めない](https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_j) | [3128](./result/iroha2019-day4/iroha2019_day4_j.png) |  1.26 |
 | agc029 | agc029_e | [Wandering TKHS](https://atcoder.jp/contests/agc029/tasks/agc029_e) | [3132](./result/agc029/agc029_e.png) |  2.05 |
 | jag2017summer-day3 | jag2017summer_day3_h | [Tiny Room](https://atcoder.jp/contests/jag2017summer-day3/tasks/jag2017summer_day3_h) | [3133](./result/jag2017summer-day3/jag2017summer_day3_h.png) |  6.35 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_i) | [3135](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_i.png) |  4.91 |
 | abc082+arc087 | arc087_d | [Squirrel Migration](https://atcoder.jp/contests/arc087/tasks/arc087_d) | [3137](./result/abc082+arc087/arc087_d.png) |  1.58 |
 | code-festival-2018-final+code-festival-2018-final-open | code_festival_2018_final_i | [Homework](https://atcoder.jp/contests/code-festival-2018-final-open/tasks/code_festival_2018_final_i) | [3137](./result/code-festival-2018-final+code-festival-2018-final-open/code_festival_2018_final_i.png) |  3.65 |
 | abc046+arc062 | arc062_d | [AtCoDeerくんとグラフ色塗り / Painting Graphs with AtCoDeer](https://atcoder.jp/contests/arc062/tasks/arc062_d) | [3138](./result/abc046+arc062/arc062_d.png) |  2.74 |
@@ -1300,7 +1291,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | jag2017summer-day3 | jag2017summer_day3_j | [Sum Source Detection](https://atcoder.jp/contests/jag2017summer-day3/tasks/jag2017summer_day3_j) | [3184](./result/jag2017summer-day3/jag2017summer_day3_j.png) |  6.35 |
 | jag2017summer-day3 | jag2017summer_day3_k | [Permutation Period](https://atcoder.jp/contests/jag2017summer-day3/tasks/jag2017summer_day3_k) | [3184](./result/jag2017summer-day3/jag2017summer_day3_k.png) |  4.76 |
 | agc013 | agc013_d | [Piling Up](https://atcoder.jp/contests/agc013/tasks/agc013_d) | [3192](./result/agc013/agc013_d.png) |  3.34 |
-| xmascon16noon | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_f) | [3206](./result/xmascon16noon/xmascon16_f.png) |  1.77 |
 | tkppc4-1 | tkppc4_1_p | [Flip Cards](https://atcoder.jp/contests/tkppc4-1/tasks/tkppc4_1_p) | [3209](./result/tkppc4-1/tkppc4_1_p.png) |  0.61 |
 | agc003 | agc003_f | [Fraction of Fractal](https://atcoder.jp/contests/agc003/tasks/agc003_f) | [3210](./result/agc003/agc003_f.png) |  1.59 |
 | s8pc-4 | s8pc_4_e | [Enormous Atcoder Railroad](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_e) | [3221](./result/s8pc-4/s8pc_4_e.png) |  1.23 |
@@ -1326,13 +1316,13 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | agc007 | agc007_f | [Shik and Copying String](https://atcoder.jp/contests/agc007/tasks/agc007_f) | [3312](./result/agc007/agc007_f.png) |  0.78 |
 | abc047+arc063 | arc063_d | [すぬけ君の塗り絵 2 / Snuke's Coloring 2](https://atcoder.jp/contests/arc063/tasks/arc063_d) | [3316](./result/abc047+arc063/arc063_d.png) |  0.52 |
 | jag2016autumn | icpc2016autumn_k | [Non-redundant Drive](https://atcoder.jp/contests/jag2016autumn/tasks/icpc2016autumn_k) | [3325](./result/jag2016autumn/icpc2016autumn_k.png) |  5.00 |
-| xmascon16midnight | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_d) | [3328](./result/xmascon16midnight/xmascon16_d.png) | 10.20 |
 | code-festival-2017-quala | code_festival_2017_quala_e | [Modern Painting](https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_e) | [3328](./result/code-festival-2017-quala/code_festival_2017_quala_e.png) |  1.34 |
 | abc095+arc096 | arc096_c | [Everything on It](https://atcoder.jp/contests/arc096/tasks/arc096_c) | [3328](./result/abc095+arc096/arc096_c.png) |  1.41 |
 | pakencamp-2018-day3 | pakencamp_2018_day3_h | [整数をつくろう！](https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_h) | [3331](./result/pakencamp-2018-day3/pakencamp_2018_day3_h.png) |  8.00 |
 | nikkei2019-final | nikkei2019_final_g | [Greatest Journey](https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_g) | [3333](./result/nikkei2019-final/nikkei2019_final_g.png) |  3.09 |
 | agc023 | agc023_f | [01 on Tree](https://atcoder.jp/contests/agc023/tasks/agc023_f) | [3336](./result/agc023/agc023_f.png) |  2.22 |
 | agc004 | agc004_e | [Salvage Robots](https://atcoder.jp/contests/agc004/tasks/agc004_e) | [3338](./result/agc004/agc004_e.png) |  2.46 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_d) | [3340](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_d.png) |  4.46 |
 | abc098+arc098 | arc098_d | [Donation](https://atcoder.jp/contests/arc098/tasks/arc098_d) | [3340](./result/abc098+arc098/arc098_d.png) |  1.37 |
 | agc017 | agc017_c | [Snuke and Spells](https://atcoder.jp/contests/agc017/tasks/agc017_c) | [3341](./result/agc017/agc017_c.png) |  3.17 |
 | kupc2018 | kupc2018_j | [ニム?](https://atcoder.jp/contests/kupc2018/tasks/kupc2018_j) | [3343](./result/kupc2018/kupc2018_j.png) |  1.09 |
@@ -1408,7 +1398,6 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | agc034 | agc034_f | [RNG and XOR](https://atcoder.jp/contests/agc034/tasks/agc034_f) | [3661](./result/agc034/agc034_f.png) |  0.42 |
 | agc010 | agc010_e | [Rearranging](https://atcoder.jp/contests/agc010/tasks/agc010_e) | [3662](./result/agc010/agc010_e.png) |  0.60 |
 | agc035 | agc035_e | [Develop](https://atcoder.jp/contests/agc035/tasks/agc035_e) | [3662](./result/agc035/agc035_e.png) |  0.29 |
-| xmascon16noon | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_d) | [3663](./result/xmascon16noon/xmascon16_d.png) |  1.77 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_e | [Water Distribution](https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16_exhibition_final_e) | [3666](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_e.png) |  6.56 |
 | agc009+jrex2017 | agc009_d | [Uninity](https://atcoder.jp/contests/jrex2017/tasks/agc009_d) | [3688](./result/agc009+jrex2017/agc009_d.png) |  2.18 |
 | agc035 | agc035_f | [Two Histograms](https://atcoder.jp/contests/agc035/tasks/agc035_f) | [3688](./result/agc035/agc035_f.png) |  0.29 |
@@ -1436,6 +1425,7 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | otemae2019 | otemae2019_i | [ピーターランドの道路整備 (Road Development in Peterland)](https://atcoder.jp/contests/otemae2019/tasks/otemae2019_i) | [3794](./result/otemae2019/otemae2019_i.png) |  0.56 |
 | agc018 | agc018_f | [Two Trees](https://atcoder.jp/contests/agc018/tasks/agc018_f) | [3798](./result/agc018/agc018_f.png) |  0.50 |
 | xmascon18 | xmascon18_j | [Japanese Exponentation](https://atcoder.jp/contests/xmascon18/tasks/xmascon18_j) | [3799](./result/xmascon18/xmascon18_j.png) |  0.69 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_c) | [3802](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_c.png) |  0.89 |
 | agc016 | agc016_f | [Games on DAG](https://atcoder.jp/contests/agc016/tasks/agc016_f) | [3804](./result/agc016/agc016_f.png) |  0.70 |
 | tenka1-2017+tenka1-2017-beginner | tenka1_2017_f | [ModularPowerEquation!!](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_f) | [3805](./result/tenka1-2017+tenka1-2017-beginner/tenka1_2017_f.png) |  0.88 |
 | mujin-pc-2017 | mujin_pc_2017_d | [Oriented Tree](https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_d) | [3808](./result/mujin-pc-2017/mujin_pc_2017_d.png) |  0.55 |
@@ -1444,11 +1434,10 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | cf17-final+cf17-final-open | cf17_final_h | [Poor Penguin](https://atcoder.jp/contests/cf17-final-open/tasks/cf17_final_h) | [3851](./result/cf17-final+cf17-final-open/cf17_final_h.png) |  0.72 |
 | xmascon18 | xmascon18_d | [Devilish Dice](https://atcoder.jp/contests/xmascon18/tasks/xmascon18_d) | [3856](./result/xmascon18/xmascon18_d.png) |  0.35 |
 | soundhound2018 | soundhound2018_e | [カッコ列](https://atcoder.jp/contests/soundhound2018/tasks/soundhound2018_e) | [3864](./result/soundhound2018/soundhound2018_e.png) |  0.19 |
-| xmascon16noon | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_b) | [3869](./result/xmascon16noon/xmascon16_b.png) |  0.88 |
 | abc042+arc058 | arc058_d | [文字列大好きいろはちゃん / Iroha Loves Strings](https://atcoder.jp/contests/arc058/tasks/arc058_d) | [3874](./result/abc042+arc058/arc058_d.png) |  0.90 |
 | iroha2019-day4 | iroha2019_day4_c | [君の力に](https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_c) | [3881](./result/iroha2019-day4/iroha2019_day4_c.png) |  3.14 |
-| xmascon16midnight | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_c) | [3887](./result/xmascon16midnight/xmascon16_c.png) |  2.04 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_f | [Intervals](https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16_exhibition_final_f) | [3894](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_f.png) |  8.20 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_g) | [3909](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_g.png) |  0.45 |
 | agc031 | agc031_e | [Snuke the Phantom Thief](https://atcoder.jp/contests/agc031/tasks/agc031_e) | [3910](./result/agc031/agc031_e.png) |  0.44 |
 | agc034 | agc034_d | [Manhattan Max Matching](https://atcoder.jp/contests/agc034/tasks/agc034_d) | [3912](./result/agc034/agc034_d.png) |  0.39 |
 | agc032 | agc032_f | [One Third](https://atcoder.jp/contests/agc032/tasks/agc032_f) | [3937](./result/agc032/agc032_f.png) |  0.23 |
@@ -1469,6 +1458,9 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | kupc2016 | kupc2016_j | [色塗り / Coloring](https://atcoder.jp/contests/kupc2016/tasks/kupc2016_j) | [4227](./result/kupc2016/kupc2016_j.png) |  0.37 |
 | apc001 | apc001_g | [Colorful Doors](https://atcoder.jp/contests/apc001/tasks/apc001_g) | [4228](./result/apc001/apc001_g.png) |  0.47 |
 | agc036 | agc036_e | [ABC String](https://atcoder.jp/contests/agc036/tasks/agc036_e) | [4267](./result/agc036/agc036_e.png) |  0.31 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_f) | [4300](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_f.png) |  1.79 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_h) | [4315](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_h.png) |  0.89 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_j) | [4317](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_j.png) |  1.79 |
 | jag2018summer-day2 | jag2018summer_day2_k | [Short LIS](https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer_day2_k) | [4478](./result/jag2018summer-day2/jag2018summer_day2_k.png) |  1.85 |
 | cf17-final+cf17-final-open | cf17_final_i | [Full Tournament](https://atcoder.jp/contests/cf17-final-open/tasks/cf17_final_i) | [4498](./result/cf17-final+cf17-final-open/cf17_final_i.png) |  0.72 |
 | cf16-exhibition+cf16-exhibition-open | codefestival_2016_ex_a | [Distance Pairs](https://atcoder.jp/contests/cf16-exhibition-open/tasks/codefestival_2016_ex_a) | [4510](./result/cf16-exhibition+cf16-exhibition-open/codefestival_2016_ex_a.png) |  3.57 |
@@ -1480,27 +1472,15 @@ AtCoderの問題の難易度を推定してみた（難易度順ソート）
 | cf16-final+cf16-final-open | codefestival_2016_final_j | [Neue Spiel](https://atcoder.jp/contests/cf16-final-open/tasks/codefestival_2016_final_j) | [4760](./result/cf16-final+cf16-final-open/codefestival_2016_final_j.png) |  0.48 |
 | s8pc-5 | s8pc_5_h | [Percepts of Atcoder](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_h) | [4806](./result/s8pc-5/s8pc_5_h.png) |  0.47 |
 | cf16-tournament-round3-open | asaporo_b | [圧縮 / Compression](https://atcoder.jp/contests/cf16-tournament-round3-open/tasks/asaporo_b) | [4970](./result/cf16-tournament-round3-open/asaporo_b.png) |  0.97 |
-| xmascon16 | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_j) | [5014](./result/xmascon16/xmascon16_j.png) |  3.23 |
 | cf16-tournament-round1-open | asaporo_f | [数字列をカンマで分ける問題 / Problem where Commas Separate Digits](https://atcoder.jp/contests/cf16-tournament-round1-open/tasks/asaporo_f) | [5152](./result/cf16-tournament-round1-open/asaporo_f.png) |  5.56 |
 | s8pc-6 | s8pc_6_i | [Garden 2](https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_i) | [5217](./result/s8pc-6/s8pc_6_i.png) |  0.15 |
 | cf16-exhibition-final+cf16-exhibition-final-open | cf16_exhibition_final_i | [90 and 270](https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16_exhibition_final_i) | [5237](./result/cf16-exhibition-final+cf16-exhibition-final-open/cf16_exhibition_final_i.png) |  3.28 |
-| xmascon16noon | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_h) | [5379](./result/xmascon16noon/xmascon16_h.png) |  0.88 |
 | tenka1-2016-final+tenka1-2016-final-open | tenka1_2016_final_b | [今年の B 問題](https://atcoder.jp/contests/tenka1-2016-final-open/tasks/tenka1_2016_final_b) | [5502](./result/tenka1-2016-final+tenka1-2016-final-open/tenka1_2016_final_b.png) |  0.96 |
 | s8pc-5 | s8pc_5_i | [Collecting Gems is Fun](https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_i) | [9763](./result/s8pc-5/s8pc_5_i.png) |  0.47 |
 | tkppc2 | tkppc2016_j | [次のお仕事 (New Game)](https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_j) | [9999](./result/tkppc2/tkppc2016_j.png) |  0.00 |
 | cf16-relay-open | relay_k | [木の問題 / Problem on Tree](https://atcoder.jp/contests/cf16-relay-open/tasks/relay_k) | [9999](./result/cf16-relay-open/relay_k.png) |  0.00 |
 | abc050+arc066 | arc066_d | [Contest with Drinks Hard](https://atcoder.jp/contests/arc066/tasks/arc066_d) | [9999](./result/abc050+arc066/arc066_d.png) |  0.00 |
-| xmascon16noon | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_c) | [9999](./result/xmascon16noon/xmascon16_c.png) |  0.00 |
-| xmascon16noon | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_g) | [9999](./result/xmascon16noon/xmascon16_g.png) |  0.00 |
-| xmascon16 | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_b) | [9999](./result/xmascon16/xmascon16_b.png) |  1.61 |
-| xmascon16 | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_c) | [9999](./result/xmascon16/xmascon16_c.png) |  1.61 |
-| xmascon16 | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_f) | [9999](./result/xmascon16/xmascon16_f.png) |  1.61 |
-| xmascon16 | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_i) | [9999](./result/xmascon16/xmascon16_i.png) |  3.23 |
-| xmascon16midnight | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_b) | [9999](./result/xmascon16midnight/xmascon16_b.png) |  2.04 |
-| xmascon16midnight | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_f) | [9999](./result/xmascon16midnight/xmascon16_f.png) |  2.04 |
-| xmascon16midnight | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_g) | [9999](./result/xmascon16midnight/xmascon16_g.png) |  0.00 |
-| xmascon16midnight | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_h) | [9999](./result/xmascon16midnight/xmascon16_h.png) |  0.00 |
-| xmascon16midnight | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_j) | [9999](./result/xmascon16midnight/xmascon16_j.png) |  2.04 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_b) | [9999](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_b.png) |  0.45 |
 | dwacon2017-honsen | dwango2017final_d | [「ドワンゴからの挑戦状」製作秘話](https://atcoder.jp/contests/dwacon2017-honsen/tasks/dwango2017final_d) | [9999](./result/dwacon2017-honsen/dwango2017final_d.png) |  0.00 |
 | agc012 | agc012_f | [Prefix Median](https://atcoder.jp/contests/agc012/tasks/agc012_f) | [9999](./result/agc012/agc012_f.png) |  0.00 |
 | s8pc-4 | s8pc_4_g | [Get the Salary of Atcoder](https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_g) | [9999](./result/s8pc-4/s8pc_4_g.png) |  1.23 |

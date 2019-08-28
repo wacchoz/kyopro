@@ -1287,36 +1287,16 @@ AtCoderÇÃñ‚ëËÇÃìÔà’ìxÇêÑíËÇµÇƒÇ›ÇΩ
 | agc008 | agc008_d | [K-th K](https://atcoder.jp/contests/agc008/tasks/agc008_d) | [2167](./result/agc008/agc008_d.png) | 27.89 |
 | agc008 | agc008_e | [Next or Nextnext](https://atcoder.jp/contests/agc008/tasks/agc008_e) | [3551](./result/agc008/agc008_e.png) |  1.65 |
 | agc008 | agc008_f | [Black Radius](https://atcoder.jp/contests/agc008/tasks/agc008_f) | [4070](./result/agc008/agc008_f.png) |  0.41 |
-| xmascon16midnight | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_a) | [2527](./result/xmascon16midnight/xmascon16_a.png) | 26.53 |
-| xmascon16midnight | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_b) | [9999](./result/xmascon16midnight/xmascon16_b.png) |  2.04 |
-| xmascon16midnight | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_c) | [3887](./result/xmascon16midnight/xmascon16_c.png) |  2.04 |
-| xmascon16midnight | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_d) | [3328](./result/xmascon16midnight/xmascon16_d.png) | 10.20 |
-| xmascon16midnight | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_e) | [2882](./result/xmascon16midnight/xmascon16_e.png) | 34.69 |
-| xmascon16midnight | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_f) | [9999](./result/xmascon16midnight/xmascon16_f.png) |  2.04 |
-| xmascon16midnight | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_g) | [9999](./result/xmascon16midnight/xmascon16_g.png) |  0.00 |
-| xmascon16midnight | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_h) | [9999](./result/xmascon16midnight/xmascon16_h.png) |  0.00 |
-| xmascon16midnight | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_i) | [3070](./result/xmascon16midnight/xmascon16_i.png) | 10.20 |
-| xmascon16midnight | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_j) | [9999](./result/xmascon16midnight/xmascon16_j.png) |  2.04 |
-| xmascon16 | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_a) | [2196](./result/xmascon16/xmascon16_a.png) | 35.48 |
-| xmascon16 | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_b) | [9999](./result/xmascon16/xmascon16_b.png) |  1.61 |
-| xmascon16 | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_c) | [9999](./result/xmascon16/xmascon16_c.png) |  1.61 |
-| xmascon16 | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_d) | [2972](./result/xmascon16/xmascon16_d.png) |  4.84 |
-| xmascon16 | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_e) | [2652](./result/xmascon16/xmascon16_e.png) | 17.74 |
-| xmascon16 | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_f) | [9999](./result/xmascon16/xmascon16_f.png) |  1.61 |
-| xmascon16 | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_g) | [2972](./result/xmascon16/xmascon16_g.png) |  1.61 |
-| xmascon16 | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_h) | [2972](./result/xmascon16/xmascon16_h.png) |  1.61 |
-| xmascon16 | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_i) | [9999](./result/xmascon16/xmascon16_i.png) |  3.23 |
-| xmascon16 | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16/tasks/xmascon16_j) | [5014](./result/xmascon16/xmascon16_j.png) |  3.23 |
-| xmascon16noon | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_a) | [2364](./result/xmascon16noon/xmascon16_a.png) | 28.32 |
-| xmascon16noon | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_b) | [3869](./result/xmascon16noon/xmascon16_b.png) |  0.88 |
-| xmascon16noon | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_c) | [9999](./result/xmascon16noon/xmascon16_c.png) |  0.00 |
-| xmascon16noon | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_d) | [3663](./result/xmascon16noon/xmascon16_d.png) |  1.77 |
-| xmascon16noon | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_e) | [2319](./result/xmascon16noon/xmascon16_e.png) | 29.20 |
-| xmascon16noon | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_f) | [3206](./result/xmascon16noon/xmascon16_f.png) |  1.77 |
-| xmascon16noon | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_g) | [9999](./result/xmascon16noon/xmascon16_g.png) |  0.00 |
-| xmascon16noon | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_h) | [5379](./result/xmascon16noon/xmascon16_h.png) |  0.88 |
-| xmascon16noon | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_i) | [3022](./result/xmascon16noon/xmascon16_i.png) |  3.54 |
-| xmascon16noon | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16noon/tasks/xmascon16_j) | [2919](./result/xmascon16noon/xmascon16_j.png) |  0.88 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_a | [Array Sum](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_a) | [2351](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_a.png) | 29.91 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_b | [Binary Tree](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_b) | [9999](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_b.png) |  0.45 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_c | [Cutting Swiss Roll](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_c) | [3802](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_c.png) |  0.89 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_d | [Distributed Sorting](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_d) | [3340](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_d.png) |  4.46 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_e | [Examination, Estimation](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_e) | [2550](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_e.png) | 27.23 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_f | [Fifty-Fifty?](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_f) | [4300](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_f.png) |  1.79 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_g | [Guide Passengers](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_g) | [3909](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_g.png) |  0.45 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_h | [High-powered Illuminations](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_h) | [4315](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_h.png) |  0.89 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_i | [ISOLT](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_i) | [3135](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_i.png) |  4.91 |
+| xmascon16noon+xmascon16+xmascon16midnight | xmascon16_j | [Just a Single Testcase](https://atcoder.jp/contests/xmascon16midnight/tasks/xmascon16_j) | [4317](./result/xmascon16noon+xmascon16+xmascon16midnight/xmascon16_j.png) |  1.79 |
 | abc050+arc066 | abc050_a | [Addition and Subtraction Easy](https://atcoder.jp/contests/abc050/tasks/abc050_a) | [20](./result/abc050+arc066/abc050_a.png) | 97.41 |
 | abc050+arc066 | abc050_b | [Contest with Drinks Easy](https://atcoder.jp/contests/abc050/tasks/abc050_b) | [72](./result/abc050+arc066/abc050_b.png) | 87.41 |
 | abc050+arc066 | arc066_a | [Lining Up](https://atcoder.jp/contests/arc066/tasks/arc066_a) | [931](./result/abc050+arc066/arc066_a.png) | 69.95 |
