@@ -673,7 +673,7 @@ if __name__ == '__main__':
             task_dict = difficulty_dict[contestname]
             for taskname, a in task_dict.items():
                 f.write("| %s | %s | [%s](%s) | [%d](%s) | %5.2f |\n" \
-                        % (contestname.replace('+',' '), taskname,a[0],a[1],a[2],"./result/"+contestname+"/"+taskname+".png",a[3]))
+                        % (contestname.replace('+',', '), taskname,a[0],a[1],a[2],"./result/"+contestname+"/"+taskname+".png",a[3]))
     
     markdown = basedir + "/difficulty_sorted.md"
     with open(markdown, mode="w") as f:
@@ -691,6 +691,6 @@ if __name__ == '__main__':
 
         for a in sorted(dlist, key=lambda x: x[2][2]):
             f.write("| %s | %s | [%s](%s) | [%d](%s) | %5.2f |\n" \
-                    % (a[0].replace('+',' '), a[1], a[2][0],a[2][1],a[2][2],"./result/"+a[0]+"/"+a[1]+".png",a[2][3]))
+                    % (a[0].replace('+',', '), a[1], a[2][0],a[2][1],a[2][2],"./result/"+a[0]+"/"+a[1]+".png",a[2][3]))
     
     
