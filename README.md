@@ -8,6 +8,27 @@ AtCoderの問題の難易度を推定してみた
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc139 | abc139_a | [Tenki](https://atcoder.jp/contests/abc139/tasks/abc139_a) | [1](./result/abc139/abc139_a.png) | 98.31 |
+| abc139 | abc139_b | [Power Socket](https://atcoder.jp/contests/abc139/tasks/abc139_b) | [58](./result/abc139/abc139_b.png) | 85.09 |
+| abc139 | abc139_c | [Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c) | [129](./result/abc139/abc139_c.png) | 81.96 |
+| abc139 | abc139_d | [ModSum](https://atcoder.jp/contests/abc139/tasks/abc139_d) | [339](./result/abc139/abc139_d.png) | 66.94 |
+| abc139 | abc139_e | [League](https://atcoder.jp/contests/abc139/tasks/abc139_e) | [1547](./result/abc139/abc139_e.png) | 13.08 |
+| abc139 | abc139_f | [Engines](https://atcoder.jp/contests/abc139/tasks/abc139_f) | [2054](./result/abc139/abc139_f.png) |  4.01 |
+| ttpc2019 | ttpc2019_a | [Next TTPC](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_a) | [0](./result/ttpc2019/ttpc2019_a.png) | 97.04 |
+| ttpc2019 | ttpc2019_b | [okyoech](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_b) | [228](./result/ttpc2019/ttpc2019_b.png) | 83.70 |
+| ttpc2019 | ttpc2019_c | [XOR Filling](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_c) | [1276](./result/ttpc2019/ttpc2019_c.png) | 46.48 |
+| ttpc2019 | ttpc2019_d | [素数取りゲーム](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_d) | [1587](./result/ttpc2019/ttpc2019_d.png) | 34.63 |
+| ttpc2019 | ttpc2019_e | [N法陣](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_e) | [1773](./result/ttpc2019/ttpc2019_e.png) | 30.19 |
+| ttpc2019 | ttpc2019_f | [Road Construction](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_f) | [2191](./result/ttpc2019/ttpc2019_f.png) | 15.00 |
+| ttpc2019 | ttpc2019_g | [Palindromic Love Letter](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_g) | [2786](./result/ttpc2019/ttpc2019_g.png) |  6.85 |
+| ttpc2019 | ttpc2019_h | [救援](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_h) | [3596](./result/ttpc2019/ttpc2019_h.png) |  2.59 |
+| ttpc2019 | ttpc2019_i | [I hate P](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_i) | [3175](./result/ttpc2019/ttpc2019_i.png) |  1.11 |
+| ttpc2019 | ttpc2019_j | [動的無計画法](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_j) | [3107](./result/ttpc2019/ttpc2019_j.png) |  1.67 |
+| ttpc2019 | ttpc2019_k | [サーキュレーション](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_k) | [3466](./result/ttpc2019/ttpc2019_k.png) |  0.93 |
+| ttpc2019 | ttpc2019_l | [多項式の零点の個数](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_l) | [3390](./result/ttpc2019/ttpc2019_l.png) |  0.74 |
+| ttpc2019 | ttpc2019_m | [Inversion Numbers of Tree](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_m) | [3007](./result/ttpc2019/ttpc2019_m.png) |  4.63 |
+| ttpc2019 | ttpc2019_n | [瓜二つ](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_n) | [3659](./result/ttpc2019/ttpc2019_n.png) |  0.19 |
+| ttpc2019 | ttpc2019_o | [oneesan puzzle](https://atcoder.jp/contests/ttpc2019/tasks/ttpc2019_o) | [2527](./result/ttpc2019/ttpc2019_o.png) | 10.93 |
 | jsc2019-qual | jsc2019_qual_a | [Takahashi Calendar](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_a) | [19](./result/jsc2019-qual/jsc2019_qual_a.png) | 97.48 |
 | jsc2019-qual | jsc2019_qual_b | [Kleene Inversion](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_b) | [796](./result/jsc2019-qual/jsc2019_qual_b.png) | 58.23 |
 | jsc2019-qual | jsc2019_qual_c | [Cell Inversion](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_c) | [1802](./result/jsc2019-qual/jsc2019_qual_c.png) | 14.63 |

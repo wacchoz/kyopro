@@ -287,7 +287,11 @@ contestlist = [
     ["abc137"],
     ["agc037"],
     ["abc138"],
-    ["jsc2019-qual"]
+    ["jsc2019-qual"],
+#    ["asprocon4"],
+    ["ttpc2019"],
+#    ["chokudai004"],
+    ["abc139"]    
     ]
 
 
