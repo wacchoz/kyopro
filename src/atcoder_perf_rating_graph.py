@@ -107,7 +107,6 @@ x1 = ax.get_xlim()
 for ac in range_color_list: 
     y_upper, y_lower = np.full(2, ac[0]), np.full(2, ac[1])	
     plt.fill_between(x1, y_upper, y_lower, facecolor=ac[2], alpha=alpha)
-    #ax.set_xlim(x1) # なぜかfill betweenによってxlimが縮むので再設定する
 
 
 plt.show()
