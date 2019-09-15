@@ -8,6 +8,18 @@ AtCoderÇÃñ‚ëËÇÃìÔà’ìxÇêÑíËÇµÇƒÇ›ÇΩ
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc141 | abc141_a | [Weather Prediction ](https://atcoder.jp/contests/abc141/tasks/abc141_a) | [0](./result/abc141/abc141_a.png) | 98.55 |
+| abc141 | abc141_b | [Tap Dance](https://atcoder.jp/contests/abc141/tasks/abc141_b) | [27](./result/abc141/abc141_b.png) | 93.77 |
+| abc141 | abc141_c | [Attack Survival](https://atcoder.jp/contests/abc141/tasks/abc141_c) | [118](./result/abc141/abc141_c.png) | 83.84 |
+| abc141 | abc141_d | [Powerful Discount Tickets](https://atcoder.jp/contests/abc141/tasks/abc141_d) | [825](./result/abc141/abc141_d.png) | 40.79 |
+| abc141 | abc141_e | [Who Says a Pun?](https://atcoder.jp/contests/abc141/tasks/abc141_e) | [1478](./result/abc141/abc141_e.png) | 14.65 |
+| abc141 | abc141_f | [Xor Sum 3](https://atcoder.jp/contests/abc141/tasks/abc141_f) | [2303](./result/abc141/abc141_f.png) |  1.59 |
+| abc140 | abc140_a | [Password](https://atcoder.jp/contests/abc140/tasks/abc140_a) | [0](./result/abc140/abc140_a.png) | 98.81 |
+| abc140 | abc140_b | [Buffet](https://atcoder.jp/contests/abc140/tasks/abc140_b) | [55](./result/abc140/abc140_b.png) | 90.48 |
+| abc140 | abc140_c | [Maximal Value](https://atcoder.jp/contests/abc140/tasks/abc140_c) | [140](./result/abc140/abc140_c.png) | 81.70 |
+| abc140 | abc140_d | [Face Produces Unhappiness](https://atcoder.jp/contests/abc140/tasks/abc140_d) | [1121](./result/abc140/abc140_d.png) | 29.77 |
+| abc140 | abc140_e | [Second Sum](https://atcoder.jp/contests/abc140/tasks/abc140_e) | [1804](./result/abc140/abc140_e.png) |  6.22 |
+| abc140 | abc140_f | [Many Slimes](https://atcoder.jp/contests/abc140/tasks/abc140_f) | [2053](./result/abc140/abc140_f.png) |  3.43 |
 | abc139 | abc139_a | [Tenki](https://atcoder.jp/contests/abc139/tasks/abc139_a) | [1](./result/abc139/abc139_a.png) | 98.31 |
 | abc139 | abc139_b | [Power Socket](https://atcoder.jp/contests/abc139/tasks/abc139_b) | [58](./result/abc139/abc139_b.png) | 85.09 |
 | abc139 | abc139_c | [Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c) | [129](./result/abc139/abc139_c.png) | 81.96 |

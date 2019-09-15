@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+#
+# AtCoderの問題の難易度を推定する。
+# 別のコードで作成したproblem.jsonが必要
+
 from sklearn import linear_model
 import urllib.request
 import os
@@ -291,7 +296,9 @@ contestlist = [
 #    ["asprocon4"],
     ["ttpc2019"],
 #    ["chokudai004"],
-    ["abc139"]    
+    ["abc139"],
+    ["abc140"],
+    ["abc141"]
     ]
 
 
