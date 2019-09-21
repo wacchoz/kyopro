@@ -298,7 +298,8 @@ contestlist = [
 #    ["chokudai004"],
     ["abc139"],
     ["abc140"],
-    ["abc141"]
+    ["abc141"],
+    ["agc038"]
     ]
 
 
@@ -670,7 +671,19 @@ if __name__ == '__main__':
     with open(basedir + "/difficulty.json", "w") as f:
         json.dump(difficulty_dict, f)
     
-    
+    range_color_list = [
+    	[10000, 3600, '#fcde5e'],
+    	[3600, 3200, '#e4e4e4'],
+    	[3200, 2800, '#ff9999'],
+    	[2800, 2400, '#ffcc99'],
+    	[2400, 2000, '#ffff99'],
+    	[2000, 1600, '#9999ff'],
+    	[1600, 1200, '#99ffff'],
+    	[1200, 800, '#99ff99'],
+    	[800, 400, '#d2b48c'],
+    	[400, -4000, '#bfbfbf']
+    ]
+        
     markdown = basedir + "/README.md"
     with open(markdown, mode="w") as f:
         f.write("AtCoderの問題の難易度を推定してみた\n\n")
@@ -683,8 +696,14 @@ if __name__ == '__main__':
         for contestname in sorted(difficulty_dict.keys(), key=lambda x: task_info_all[x.split("+")[0]]["start"], reverse=True):
             task_dict = difficulty_dict[contestname]
             for taskname, a in task_dict.items():
-                f.write("| %s | %s | [%s](%s) | [%d](%s) | %5.2f |\n" \
-                        % (contestname.replace('+',', '), taskname,a[0],a[1],a[2],"./result/"+contestname+"/"+taskname+".png",a[3]))
+
+                color = None
+                for col in range_color_list:
+                    if col[1] <= a[2] < col[0]:
+                        color = col[2]
+
+                f.write("| %s | ![%s](https://placehold.it/15/%s/000000?text=+) %s | [%s](%s) | [%d](%s) | %5.2f |\n" \
+                        % (contestname.replace('+',', '), color, color[1:], taskname,a[0],a[1],a[2],"./result/"+contestname+"/"+taskname+".png",a[3]))
     
     markdown = basedir + "/difficulty_sorted.md"
     with open(markdown, mode="w") as f:

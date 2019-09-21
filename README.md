@@ -8,6 +8,12 @@ AtCoderÇÃñ‚ëËÇÃìÔà’ìxÇêÑíËÇµÇƒÇ›ÇΩ
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| agc038 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) agc038_a | [01 Matrix](https://atcoder.jp/contests/agc038/tasks/agc038_a) | [1116](./result/agc038/agc038_a.png) | 49.75 |
+| agc038 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) agc038_b | [Sorting a Segment](https://atcoder.jp/contests/agc038/tasks/agc038_b) | [1644](./result/agc038/agc038_b.png) | 28.52 |
+| agc038 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) agc038_c | [LCMs](https://atcoder.jp/contests/agc038/tasks/agc038_c) | [2407](./result/agc038/agc038_c.png) |  8.90 |
+| agc038 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) agc038_d | [Unique Path](https://atcoder.jp/contests/agc038/tasks/agc038_d) | [2898](./result/agc038/agc038_d.png) |  4.38 |
+| agc038 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) agc038_e | [Gachapon](https://atcoder.jp/contests/agc038/tasks/agc038_e) | [3897](./result/agc038/agc038_e.png) |  0.34 |
+| agc038 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) agc038_f | [Two Permutations](https://atcoder.jp/contests/agc038/tasks/agc038_f) | [3317](./result/agc038/agc038_f.png) |  1.23 |
 | abc141 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc141_a | [Weather Prediction ](https://atcoder.jp/contests/abc141/tasks/abc141_a) | [0](./result/abc141/abc141_a.png) | 98.55 |
 | abc141 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc141_b | [Tap Dance](https://atcoder.jp/contests/abc141/tasks/abc141_b) | [27](./result/abc141/abc141_b.png) | 93.77 |
 | abc141 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc141_c | [Attack Survival](https://atcoder.jp/contests/abc141/tasks/abc141_c) | [118](./result/abc141/abc141_c.png) | 83.84 |
