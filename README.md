@@ -8,6 +8,26 @@ AtCoderの問題の難易度を推定してみた
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| agc039 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc039_a | [Connection and Disconnection](https://atcoder.jp/contests/agc039/tasks/agc039_a) | [646](./result/agc039/agc039_a.png) | 63.51 |
+| agc039 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) agc039_b | [Graph Partition](https://atcoder.jp/contests/agc039/tasks/agc039_b) | [1402](./result/agc039/agc039_b.png) | 31.84 |
+| agc039 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) agc039_c | [Division by Two with Something](https://atcoder.jp/contests/agc039/tasks/agc039_c) | [2424](./result/agc039/agc039_c.png) |  6.26 |
+| agc039 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) agc039_d | [Incenters](https://atcoder.jp/contests/agc039/tasks/agc039_d) | [3243](./result/agc039/agc039_d.png) |  1.28 |
+| agc039 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) agc039_e | [Pairing Points](https://atcoder.jp/contests/agc039/tasks/agc039_e) | [3395](./result/agc039/agc039_e.png) |  0.58 |
+| agc039 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) agc039_f | [Min Product Sum](https://atcoder.jp/contests/agc039/tasks/agc039_f) | [4192](./result/agc039/agc039_f.png) |  0.10 |
+| jsc2019-final, jsc2019-final-open | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) jsc2019_final_a | [Equal Weight](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_a) | [2149](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_a.png) | 40.74 |
+| jsc2019-final, jsc2019-final-open | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) jsc2019_final_b | [Reachability](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_b) | [1134](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_b.png) | 82.05 |
+| jsc2019-final, jsc2019-final-open | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) jsc2019_final_c | [Maximize Minimum](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_c) | [2619](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_c.png) | 11.68 |
+| jsc2019-final, jsc2019-final-open | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) jsc2019_final_d | [Minimize Maximum](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_d) | [2869](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_d.png) |  4.56 |
+| jsc2019-final, jsc2019-final-open | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) jsc2019_final_e | [Nearest String](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_e) | [3173](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_e.png) |  2.28 |
+| jsc2019-final, jsc2019-final-open | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) jsc2019_final_f | [Count Permutations Many Times](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_f) | [2614](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_f.png) |  8.55 |
+| jsc2019-final, jsc2019-final-open | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) jsc2019_final_g | [Important Bridges](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_g) | [3296](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_g.png) |  0.57 |
+| jsc2019-final, jsc2019-final-open | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) jsc2019_final_h | [Distinct Integers](https://atcoder.jp/contests/jsc2019-final-open/tasks/jsc2019_final_h) | [9999](./result/jsc2019-final+jsc2019-final-open/jsc2019_final_h.png) |  0.00 |
+| abc142 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc142_a | [Odds of Oddness](https://atcoder.jp/contests/abc142/tasks/abc142_a) | [0](./result/abc142/abc142_a.png) | 97.10 |
+| abc142 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc142_b | [Roller Coaster](https://atcoder.jp/contests/abc142/tasks/abc142_b) | [2](./result/abc142/abc142_b.png) | 96.52 |
+| abc142 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc142_c | [Go to School](https://atcoder.jp/contests/abc142/tasks/abc142_c) | [84](./result/abc142/abc142_c.png) | 86.75 |
+| abc142 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc142_d | [Disjoint Set of Common Divisors](https://atcoder.jp/contests/abc142/tasks/abc142_d) | [837](./result/abc142/abc142_d.png) | 42.55 |
+| abc142 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) abc142_e | [Get Everything](https://atcoder.jp/contests/abc142/tasks/abc142_e) | [1356](./result/abc142/abc142_e.png) | 17.53 |
+| abc142 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) abc142_f | [Pure](https://atcoder.jp/contests/abc142/tasks/abc142_f) | [1874](./result/abc142/abc142_f.png) |  5.52 |
 | agc038 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) agc038_a | [01 Matrix](https://atcoder.jp/contests/agc038/tasks/agc038_a) | [1116](./result/agc038/agc038_a.png) | 49.75 |
 | agc038 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) agc038_b | [Sorting a Segment](https://atcoder.jp/contests/agc038/tasks/agc038_b) | [1644](./result/agc038/agc038_b.png) | 28.52 |
 | agc038 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) agc038_c | [LCMs](https://atcoder.jp/contests/agc038/tasks/agc038_c) | [2407](./result/agc038/agc038_c.png) |  8.90 |
@@ -55,9 +75,9 @@ AtCoderの問題の難易度を推定してみた
 | jsc2019-qual | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) jsc2019_qual_f | [Candy Retribution](https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_f) | [3386](./result/jsc2019-qual/jsc2019_qual_f.png) |  0.23 |
 | abc138 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc138_a | [Red or Not](https://atcoder.jp/contests/abc138/tasks/abc138_a) | [0](./result/abc138/abc138_a.png) | 98.65 |
 | abc138 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc138_b | [Resistors in Parallel](https://atcoder.jp/contests/abc138/tasks/abc138_b) | [26](./result/abc138/abc138_b.png) | 94.14 |
-| abc138 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc138_c | [Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c) | [85](./result/abc138/abc138_c.png) | 87.73 |
+| abc138 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc138_c | [Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c) | [86](./result/abc138/abc138_c.png) | 87.73 |
 | abc138 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc138_d | [Ki](https://atcoder.jp/contests/abc138/tasks/abc138_d) | [919](./result/abc138/abc138_d.png) | 39.74 |
-| abc138 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) abc138_e | [Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e) | [1232](./result/abc138/abc138_e.png) | 23.89 |
+| abc138 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) abc138_e | [Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e) | [1233](./result/abc138/abc138_e.png) | 23.89 |
 | abc138 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) abc138_f | [Coincidence](https://atcoder.jp/contests/abc138/tasks/abc138_f) | [2325](./result/abc138/abc138_f.png) |  1.34 |
 | agc037 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) agc037_a | [Dividing a String](https://atcoder.jp/contests/agc037/tasks/agc037_a) | [202](./result/agc037/agc037_a.png) | 81.33 |
 | agc037 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) agc037_b | [RGB Balls](https://atcoder.jp/contests/agc037/tasks/agc037_b) | [2286](./result/agc037/agc037_b.png) | 10.05 |
@@ -129,7 +149,7 @@ AtCoderの問題の難易度を推定してみた
 | abc134 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc134_a | [Dodecagon](https://atcoder.jp/contests/abc134/tasks/abc134_a) | [0](./result/abc134/abc134_a.png) | 99.19 |
 | abc134 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc134_b | [Golden Apple](https://atcoder.jp/contests/abc134/tasks/abc134_b) | [23](./result/abc134/abc134_b.png) | 94.63 |
 | abc134 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc134_c | [Exception Handling](https://atcoder.jp/contests/abc134/tasks/abc134_c) | [124](./result/abc134/abc134_c.png) | 85.15 |
-| abc134 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc134_d | [Preparing Boxes](https://atcoder.jp/contests/abc134/tasks/abc134_d) | [936](./result/abc134/abc134_d.png) | 40.15 |
+| abc134 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc134_d | [Preparing Boxes](https://atcoder.jp/contests/abc134/tasks/abc134_d) | [935](./result/abc134/abc134_d.png) | 40.15 |
 | abc134 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) abc134_e | [Sequence Decomposing](https://atcoder.jp/contests/abc134/tasks/abc134_e) | [1314](./result/abc134/abc134_e.png) | 22.66 |
 | abc134 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) abc134_f | [Permutation Oddness](https://atcoder.jp/contests/abc134/tasks/abc134_f) | [2518](./result/abc134/abc134_f.png) |  1.10 |
 | agc035 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc035_a | [XOR Circle](https://atcoder.jp/contests/agc035/tasks/agc035_a) | [703](./result/agc035/agc035_a.png) | 62.98 |
@@ -338,7 +358,7 @@ AtCoderの問題の難易度を推定してみた
 | exawizards2019 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) exawizards2019_f | [More Realistic Manhattan Distance](https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_f) | [3150](./result/exawizards2019/exawizards2019_f.png) |  0.44 |
 | abc122 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc122_a | [Double Helix](https://atcoder.jp/contests/abc122/tasks/abc122_a) | [0](./result/abc122/abc122_a.png) | 98.51 |
 | abc122 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc122_b | [ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b) | [70](./result/abc122/abc122_b.png) | 89.39 |
-| abc122 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) abc122_c | [GeT AC](https://atcoder.jp/contests/abc122/tasks/abc122_c) | [699](./result/abc122/abc122_c.png) | 51.92 |
+| abc122 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) abc122_c | [GeT AC](https://atcoder.jp/contests/abc122/tasks/abc122_c) | [698](./result/abc122/abc122_c.png) | 51.92 |
 | abc122 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) abc122_d | [We Like AGC](https://atcoder.jp/contests/abc122/tasks/abc122_d) | [1496](./result/abc122/abc122_d.png) | 12.72 |
 | agc032 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc032_a | [Limited Insertion](https://atcoder.jp/contests/agc032/tasks/agc032_a) | [666](./result/agc032/agc032_a.png) | 69.67 |
 | agc032 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) agc032_b | [Balanced Neighbors](https://atcoder.jp/contests/agc032/tasks/agc032_b) | [1254](./result/agc032/agc032_b.png) | 50.97 |
@@ -365,7 +385,7 @@ AtCoderの問題の難易度を推定してみた
 | abc121 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc121_a | [White Cells](https://atcoder.jp/contests/abc121/tasks/abc121_a) | [0](./result/abc121/abc121_a.png) | 98.46 |
 | abc121 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc121_b | [Can you solve this?](https://atcoder.jp/contests/abc121/tasks/abc121_b) | [53](./result/abc121/abc121_b.png) | 92.45 |
 | abc121 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc121_c | [Energy Drink Collector](https://atcoder.jp/contests/abc121/tasks/abc121_c) | [323](./result/abc121/abc121_c.png) | 73.89 |
-| abc121 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc121_d | [XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d) | [1175](./result/abc121/abc121_d.png) | 30.61 |
+| abc121 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) abc121_d | [XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d) | [1174](./result/abc121/abc121_d.png) | 30.61 |
 | abc120 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc120_a | [Favorite Sound](https://atcoder.jp/contests/abc120/tasks/abc120_a) | [0](./result/abc120/abc120_a.png) | 98.50 |
 | abc120 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc120_b | [K-th Common Divisor](https://atcoder.jp/contests/abc120/tasks/abc120_b) | [44](./result/abc120/abc120_b.png) | 90.77 |
 | abc120 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc120_c | [Unification](https://atcoder.jp/contests/abc120/tasks/abc120_c) | [303](./result/abc120/abc120_c.png) | 72.50 |
@@ -644,7 +664,7 @@ AtCoderの問題の難易度を推定してみた
 | abc108, arc102 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) arc102_c | [Stop. Otherwise...](https://atcoder.jp/contests/arc102/tasks/arc102_c) | [2540](./result/abc108+arc102/arc102_c.png) |  9.55 |
 | abc108, arc102 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) arc102_d | [Revenge of BBuBBBlesort!](https://atcoder.jp/contests/arc102/tasks/arc102_d) | [3788](./result/abc108+arc102/arc102_d.png) |  0.38 |
 | abc107, arc101 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc107_a | [Train](https://atcoder.jp/contests/abc107/tasks/abc107_a) | [0](./result/abc107+arc101/abc107_a.png) | 99.22 |
-| abc107, arc101 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) abc107_b | [Grid Compression](https://atcoder.jp/contests/abc107/tasks/abc107_b) | [431](./result/abc107+arc101/abc107_b.png) | 64.38 |
+| abc107, arc101 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) abc107_b | [Grid Compression](https://atcoder.jp/contests/abc107/tasks/abc107_b) | [430](./result/abc107+arc101/abc107_b.png) | 64.38 |
 | abc107, arc101 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) arc101_a | [Candles](https://atcoder.jp/contests/arc101/tasks/arc101_a) | [947](./result/abc107+arc101/arc101_a.png) | 50.27 |
 | abc107, arc101 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) arc101_b | [Median of Medians](https://atcoder.jp/contests/arc101/tasks/arc101_b) | [2089](./result/abc107+arc101/arc101_b.png) |  8.00 |
 | abc107, arc101 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) arc101_c | [Ribbons on Tree](https://atcoder.jp/contests/arc101/tasks/arc101_c) | [2960](./result/abc107+arc101/arc101_c.png) |  2.34 |
@@ -744,11 +764,11 @@ AtCoderの問題の難易度を推定してみた
 | abc098, arc098 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) arc098_b | [Xor Sum 2](https://atcoder.jp/contests/arc098/tasks/arc098_b) | [1379](./result/abc098+arc098/arc098_b.png) | 28.25 |
 | abc098, arc098 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) arc098_c | [Range Minimum Queries](https://atcoder.jp/contests/arc098/tasks/arc098_c) | [1975](./result/abc098+arc098/arc098_c.png) | 25.58 |
 | abc098, arc098 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) arc098_d | [Donation](https://atcoder.jp/contests/arc098/tasks/arc098_d) | [3340](./result/abc098+arc098/arc098_d.png) |  1.37 |
-| agc024 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) agc024_a | [Fairness](https://atcoder.jp/contests/agc024/tasks/agc024_a) | [147](./result/agc024/agc024_a.png) | 90.83 |
+| agc024 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) agc024_a | [Fairness](https://atcoder.jp/contests/agc024/tasks/agc024_a) | [128](./result/agc024/agc024_a.png) | 90.83 |
 | agc024 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) agc024_b | [Backfront](https://atcoder.jp/contests/agc024/tasks/agc024_b) | [1260](./result/agc024/agc024_b.png) | 50.15 |
 | agc024 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) agc024_c | [Sequence Growing Easy](https://atcoder.jp/contests/agc024/tasks/agc024_c) | [1282](./result/agc024/agc024_c.png) | 48.78 |
-| agc024 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) agc024_d | [Isomorphism Freak](https://atcoder.jp/contests/agc024/tasks/agc024_d) | [2345](./result/agc024/agc024_d.png) | 11.91 |
-| agc024 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) agc024_e | [Sequence Growing Hard](https://atcoder.jp/contests/agc024/tasks/agc024_e) | [3026](./result/agc024/agc024_e.png) |  3.45 |
+| agc024 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) agc024_d | [Isomorphism Freak](https://atcoder.jp/contests/agc024/tasks/agc024_d) | [2348](./result/agc024/agc024_d.png) | 11.91 |
+| agc024 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) agc024_e | [Sequence Growing Hard](https://atcoder.jp/contests/agc024/tasks/agc024_e) | [3027](./result/agc024/agc024_e.png) |  3.45 |
 | agc024 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) agc024_f | [Simple Subsequence Problem](https://atcoder.jp/contests/agc024/tasks/agc024_f) | [3540](./result/agc024/agc024_f.png) |  0.89 |
 | abc097, arc097 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc097_a | [Colorful Transceivers](https://atcoder.jp/contests/abc097/tasks/abc097_a) | [27](./result/abc097+arc097/abc097_a.png) | 95.18 |
 | abc097, arc097 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc097_b | [Exponential](https://atcoder.jp/contests/abc097/tasks/abc097_b) | [207](./result/abc097+arc097/abc097_b.png) | 76.74 |
@@ -1205,7 +1225,7 @@ AtCoderの問題の難易度を推定してみた
 | agc014 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) agc014_f | [Strange Sorting](https://atcoder.jp/contests/agc014/tasks/agc014_f) | [4552](./result/agc014/agc014_f.png) |  0.11 |
 | abc060, arc073 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc060_a | [Shiritori](https://atcoder.jp/contests/abc060/tasks/abc060_a) | [15](./result/abc060+arc073/abc060_a.png) | 97.71 |
 | abc060, arc073 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc060_b | [Choose Integers](https://atcoder.jp/contests/abc060/tasks/abc060_b) | [336](./result/abc060+arc073/abc060_b.png) | 78.12 |
-| abc060, arc073 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) arc073_a | [Sentou](https://atcoder.jp/contests/arc073/tasks/arc073_a) | [392](./result/abc060+arc073/arc073_a.png) | 87.28 |
+| abc060, arc073 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) arc073_a | [Sentou](https://atcoder.jp/contests/arc073/tasks/arc073_a) | [393](./result/abc060+arc073/arc073_a.png) | 87.28 |
 | abc060, arc073 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) arc073_b | [Simple Knapsack](https://atcoder.jp/contests/arc073/tasks/arc073_b) | [1468](./result/abc060+arc073/arc073_b.png) | 41.20 |
 | abc060, arc073 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) arc073_c | [Ball Coloring](https://atcoder.jp/contests/arc073/tasks/arc073_c) | [2393](./result/abc060+arc073/arc073_c.png) | 14.12 |
 | abc060, arc073 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) arc073_d | [Many Moves](https://atcoder.jp/contests/arc073/tasks/arc073_d) | [2873](./result/abc060+arc073/arc073_d.png) |  5.17 |
@@ -1215,7 +1235,7 @@ AtCoderの問題の難易度を推定してみた
 | abc059, arc072 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) arc072_b | [Alice&Brown](https://atcoder.jp/contests/arc072/tasks/arc072_b) | [1758](./result/abc059+arc072/arc072_b.png) | 30.65 |
 | abc059, arc072 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) arc072_c | [Alice in linear land](https://atcoder.jp/contests/arc072/tasks/arc072_c) | [2724](./result/abc059+arc072/arc072_c.png) |  9.46 |
 | abc059, arc072 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) arc072_d | [Dam](https://atcoder.jp/contests/arc072/tasks/arc072_d) | [3502](./result/abc059+arc072/arc072_d.png) |  1.21 |
-| agc013 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc013_a | [Sorted Arrays](https://atcoder.jp/contests/agc013/tasks/agc013_a) | [439](./result/agc013/agc013_a.png) | 88.12 |
+| agc013 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc013_a | [Sorted Arrays](https://atcoder.jp/contests/agc013/tasks/agc013_a) | [441](./result/agc013/agc013_a.png) | 88.12 |
 | agc013 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) agc013_b | [Hamiltonish Path](https://atcoder.jp/contests/agc013/tasks/agc013_b) | [1778](./result/agc013/agc013_b.png) | 40.84 |
 | agc013 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) agc013_c | [Ants on a Circle](https://atcoder.jp/contests/agc013/tasks/agc013_c) | [2599](./result/agc013/agc013_c.png) | 13.74 |
 | agc013 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) agc013_d | [Piling Up](https://atcoder.jp/contests/agc013/tasks/agc013_d) | [3192](./result/agc013/agc013_d.png) |  3.34 |
