@@ -4,10 +4,30 @@ AtCoderの問題の難易度を推定してみた
 
 [難易度順ソートはこちら](./difficulty_sorted.md)
 
+[Excelはこちら](https://github.com/wacchoz/kyopro/blob/master/AtCoderProblemList.xlsx?raw=true)
+
 データは自由に使ってね
 
 |      |      |      | difficulty | AC ratio |
 | ---- | ---- | ---- | ---- | ---- |
+| abc143 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc143_a | [Curtain](https://atcoder.jp/contests/abc143/tasks/abc143_a) | [0](./result/abc143/abc143_a.png) | 98.41 |
+| abc143 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc143_b | [TAKOYAKI FESTIVAL 2019](https://atcoder.jp/contests/abc143/tasks/abc143_b) | [10](./result/abc143/abc143_b.png) | 95.28 |
+| abc143 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) abc143_c | [Slimes](https://atcoder.jp/contests/abc143/tasks/abc143_c) | [35](./result/abc143/abc143_c.png) | 92.51 |
+| abc143 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) abc143_d | [Triangles](https://atcoder.jp/contests/abc143/tasks/abc143_d) | [679](./result/abc143/abc143_d.png) | 51.32 |
+| abc143 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) abc143_e | [Travel by Car](https://atcoder.jp/contests/abc143/tasks/abc143_e) | [1670](./result/abc143/abc143_e.png) |  9.73 |
+| abc143 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) abc143_f | [Distinct Numbers](https://atcoder.jp/contests/abc143/tasks/abc143_f) | [2276](./result/abc143/abc143_f.png) |  2.32 |
+| kupc2019 | ![#bfbfbf](https://placehold.it/15/bfbfbf/000000?text=+) kupc2019_a | [November Festival](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_a) | [0](./result/kupc2019/kupc2019_a.png) | 97.05 |
+| kupc2019 | ![#99ff99](https://placehold.it/15/99ff99/000000?text=+) kupc2019_b | [ナップサック問題](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_b) | [1135](./result/kupc2019/kupc2019_b.png) | 52.34 |
+| kupc2019 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) kupc2019_c | [てんびんばかり](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_c) | [1384](./result/kupc2019/kupc2019_c.png) | 42.29 |
+| kupc2019 | ![#9999ff](https://placehold.it/15/9999ff/000000?text=+) kupc2019_d | [Maximin Game](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_d) | [1791](./result/kupc2019/kupc2019_d.png) | 25.13 |
+| kupc2019 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) kupc2019_e | [根付き森二人用ゲーム](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_e) | [2493](./result/kupc2019/kupc2019_e.png) |  8.32 |
+| kupc2019 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) kupc2019_f | [カズマ王国の陥落](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_f) | [2301](./result/kupc2019/kupc2019_f.png) |  9.01 |
+| kupc2019 | ![#ffff99](https://placehold.it/15/ffff99/000000?text=+) kupc2019_g | [ABCのG問題](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_g) | [2329](./result/kupc2019/kupc2019_g.png) | 10.75 |
+| kupc2019 | ![#ff9999](https://placehold.it/15/ff9999/000000?text=+) kupc2019_h | [123パズル](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_h) | [2848](./result/kupc2019/kupc2019_h.png) |  2.08 |
+| kupc2019 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) kupc2019_i | [encode/decode 2019](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_i) | [4400](./result/kupc2019/kupc2019_i.png) |  0.35 |
+| kupc2019 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) kupc2019_j | [Link-cut tworee](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_j) | [3428](./result/kupc2019/kupc2019_j.png) |  0.52 |
+| kupc2019 | ![#e4e4e4](https://placehold.it/15/e4e4e4/000000?text=+) kupc2019_k | [One or All](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_k) | [3295](./result/kupc2019/kupc2019_k.png) |  0.69 |
+| kupc2019 | ![#fcde5e](https://placehold.it/15/fcde5e/000000?text=+) kupc2019_l | [タケノコ](https://atcoder.jp/contests/kupc2019/tasks/kupc2019_l) | [3876](./result/kupc2019/kupc2019_l.png) |  0.35 |
 | agc039 | ![#d2b48c](https://placehold.it/15/d2b48c/000000?text=+) agc039_a | [Connection and Disconnection](https://atcoder.jp/contests/agc039/tasks/agc039_a) | [646](./result/agc039/agc039_a.png) | 63.51 |
 | agc039 | ![#99ffff](https://placehold.it/15/99ffff/000000?text=+) agc039_b | [Graph Partition](https://atcoder.jp/contests/agc039/tasks/agc039_b) | [1402](./result/agc039/agc039_b.png) | 31.84 |
 | agc039 | ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+) agc039_c | [Division by Two with Something](https://atcoder.jp/contests/agc039/tasks/agc039_c) | [2424](./result/agc039/agc039_c.png) |  6.26 |
